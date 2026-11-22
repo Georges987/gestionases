@@ -1,0 +1,45 @@
+# Dépendances / build local (l'image reconstruit tout)
+node_modules
+dist
+dist_upload
+
+# Git / IDE
+.git
+.gitignore
+.vscode
+.idea
+
+# Artefacts de déploiement non nécessaires dans l'image
+deploy/.env
+deploy_admin.zip
+dist_upload.zip
+Gestion_ONG_Final.zip
+local-ngo-management-solution.zip
+backups
+cookies.txt
+
+# Docs / planning pas nécessaires à la compilation runtime
+.planning
+docs
+security
+*.md
+README_ICON_NODE.md
+
+# Bases SQLite locales : ne JAMAIS être empaquetées dans l'image
+*.db
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+
+# Env (secrets) — passés à l'exécution via docker compose env_file
+.env
+.env.local
+.env.*.local
+
+# Dossiers vides résiduels
+Codes
+ONG
+Open
+projets
+api/data/*.db

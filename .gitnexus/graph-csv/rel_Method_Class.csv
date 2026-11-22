@@ -1,0 +1,77 @@
+from,to,type,confidence,reason,step,staticGated
+"Method:dist_upload/Finances-CGGP27IQ.js:Pe.parse#1","Class:dist_upload/Finances-CGGP27IQ.js:Pe","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:Pe.add#1","Class:dist_upload/Finances-CGGP27IQ.js:Pe","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:Pe.subtract#1","Class:dist_upload/Finances-CGGP27IQ.js:Pe","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:Pe.multiply#1","Class:dist_upload/Finances-CGGP27IQ.js:Pe","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:Pe.divide#1","Class:dist_upload/Finances-CGGP27IQ.js:Pe","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:M.empty#1","Class:dist_upload/index.es-DibgWzSl.js:M","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:M.split#0","Class:dist_upload/index.es-DibgWzSl.js:M","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:M.addOpacity#1","Class:dist_upload/index.es-DibgWzSl.js:M","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:ee.parseScale#1","Class:dist_upload/index.es-DibgWzSl.js:ee","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:ee.parsePath#1","Class:dist_upload/index.es-DibgWzSl.js:ee","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Hf.mapXY#2","Class:dist_upload/index.es-DibgWzSl.js:ee","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:$r.constructor#1","Class:dist_upload/index.es-DibgWzSl.js:zf","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:$r.constructor#1","Class:dist_upload/index.es-DibgWzSl.js:Hf","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:$r.setViewBox#1","Class:dist_upload/index.es-DibgWzSl.js:M","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Kf.constructor#3","Class:dist_upload/index.es-DibgWzSl.js:M","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Fl.constructor#3","Class:dist_upload/index.es-DibgWzSl.js:M","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Je.fromElement#2","Class:dist_upload/index.es-DibgWzSl.js:Je","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:K.constructor#2","Class:dist_upload/index.es-DibgWzSl.js:M","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:K.getAttribute#1","Class:dist_upload/index.es-DibgWzSl.js:M","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:K.getStyle#1","Class:dist_upload/index.es-DibgWzSl.js:M","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:G.reset#0","Class:dist_upload/index.es-DibgWzSl.js:ee","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:G.getPoint#0","Class:dist_upload/index.es-DibgWzSl.js:ee","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:G.getReflectedControlPoint#0","Class:dist_upload/index.es-DibgWzSl.js:ee","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:ir.setContext#1","Class:dist_upload/index.es-DibgWzSl.js:M","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:ir.setContext#1","Class:dist_upload/index.es-DibgWzSl.js:le","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Y.constructor#3","Class:dist_upload/index.es-DibgWzSl.js:G","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Y.path#1","Class:dist_upload/index.es-DibgWzSl.js:Ie","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Y.pathH#1","Class:dist_upload/index.es-DibgWzSl.js:ee","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Y.pathV#1","Class:dist_upload/index.es-DibgWzSl.js:ee","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Y.pathA#1","Class:dist_upload/index.es-DibgWzSl.js:ee","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Y.pathA#2","Class:dist_upload/index.es-DibgWzSl.js:ee","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:We.getTElementBoundingBox#1","Class:dist_upload/index.es-DibgWzSl.js:Ie","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Tr.setContext#1","Class:dist_upload/index.es-DibgWzSl.js:M","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Gl.path#1","Class:dist_upload/index.es-DibgWzSl.js:Ie","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:uc.path#1","Class:dist_upload/index.es-DibgWzSl.js:Ie","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:lc.path#1","Class:dist_upload/index.es-DibgWzSl.js:Ie","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:hc.getPoints#0","Class:dist_upload/index.es-DibgWzSl.js:ee","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:hc.path#1","Class:dist_upload/index.es-DibgWzSl.js:Ie","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:$l.path#1","Class:dist_upload/index.es-DibgWzSl.js:Ie","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:cc.createPattern#3","Class:dist_upload/index.es-DibgWzSl.js:Tr","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:cc.createPattern#3","Class:dist_upload/index.es-DibgWzSl.js:M","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:vc.render#3","Class:dist_upload/index.es-DibgWzSl.js:Tr","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:vc.render#3","Class:dist_upload/index.es-DibgWzSl.js:M","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:ln.getBoundingBox#1","Class:dist_upload/index.es-DibgWzSl.js:Ie","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:zl.createGradient#3","Class:dist_upload/index.es-DibgWzSl.js:Gl","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:zl.createGradient#3","Class:dist_upload/index.es-DibgWzSl.js:M","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:zl.createGradient#3","Class:dist_upload/index.es-DibgWzSl.js:ln","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:zl.createGradient#3","Class:dist_upload/index.es-DibgWzSl.js:Tr","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:zl.addParentOpacity#2","Class:dist_upload/index.es-DibgWzSl.js:M","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:hn.constructor#3","Class:dist_upload/index.es-DibgWzSl.js:M","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:hn.getProgress#0","Class:dist_upload/index.es-DibgWzSl.js:M","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Ec.renderChildren#1","Class:dist_upload/index.es-DibgWzSl.js:M","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Ec.renderChildren#1","Class:dist_upload/index.es-DibgWzSl.js:Ie","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Ec.renderChildren#1","Class:dist_upload/index.es-DibgWzSl.js:ln","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:wc.getBoundingBox#0","Class:dist_upload/index.es-DibgWzSl.js:Ie","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Hl.constructor#3","Class:dist_upload/index.es-DibgWzSl.js:M","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Hl.constructor#3","Class:dist_upload/index.es-DibgWzSl.js:Ac","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Ic.renderChildren#1","Class:dist_upload/index.es-DibgWzSl.js:Tr","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Ic.renderChildren#1","Class:dist_upload/index.es-DibgWzSl.js:M","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Hr.apply#2","Class:dist_upload/index.es-DibgWzSl.js:Ie","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Hr.apply#2","Class:dist_upload/index.es-DibgWzSl.js:Wl","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:He.createElement#1","Class:dist_upload/index.es-DibgWzSl.js:tc","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:He.createTextNode#1","Class:dist_upload/index.es-DibgWzSl.js:oc","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:gr.constructor#2","Class:dist_upload/index.es-DibgWzSl.js:Da","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:gr.constructor#2","Class:dist_upload/index.es-DibgWzSl.js:$r","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:gr.constructor#2","Class:dist_upload/index.es-DibgWzSl.js:He","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:gr.from#2","Class:dist_upload/index.es-DibgWzSl.js:Da","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:gr.from#2","Class:dist_upload/index.es-DibgWzSl.js:gr","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:gr.fromString#2","Class:dist_upload/index.es-DibgWzSl.js:Da","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:gr.fromString#2","Class:dist_upload/index.es-DibgWzSl.js:gr","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:K.addChild#1","Class:dist_upload/index.es-DibgWzSl.js:K","ACCESSES",0.51,"scope-resolution: read",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:We.constructor#3","Class:dist_upload/index.es-DibgWzSl.js:We","ACCESSES",0.51,"scope-resolution: read",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:We.getGlyph#3","Class:dist_upload/index.es-DibgWzSl.js:Ul","ACCESSES",0.51,"scope-resolution: read",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:We.getInheritedAttribute#1","Class:dist_upload/index.es-DibgWzSl.js:We","ACCESSES",0.51,"scope-resolution: read",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:zr.constructor#3","Class:dist_upload/index.es-DibgWzSl.js:zr","ACCESSES",0.51,"scope-resolution: read",0,0
+"Method:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:cl.constructor#2","Class:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:cl","ACCESSES",0.51,"scope-resolution: read",0,0

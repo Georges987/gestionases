@@ -1,0 +1,6 @@
+from,to,type,confidence,reason,step,staticGated
+"File:ngo-management-platform-design/src/components/Sidebar.tsx","TypeAlias:ngo-management-platform-design/src/components/Sidebar.tsx:PageId","USES",0.55,"scope-resolution: type-reference",0,0
+"File:src/ui/Button.tsx","TypeAlias:src/ui/Button.tsx:ButtonVariant","USES",0.55,"scope-resolution: type-reference",0,0
+"File:src/ui/Button.tsx","TypeAlias:src/ui/Button.tsx:ButtonSize","USES",0.55,"scope-resolution: type-reference",0,0
+"File:src/ui/Toast.tsx","TypeAlias:src/ui/Toast.tsx:ToastType","USES",0.55,"scope-resolution: type-reference",0,0
+"File:src/ui/Toast.tsx","TypeAlias:src/ui/Toast.tsx:ToastType","USES",0.55,"scope-resolution: type-reference",0,0

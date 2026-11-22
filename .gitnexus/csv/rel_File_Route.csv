@@ -1,0 +1,16 @@
+from,to,type,confidence,reason,step,staticGated
+"File:api/auth.php","Route:/api/auth","HANDLES_ROUTE",1,"php-file-route",0,0
+"File:api/backup.php","Route:/api/backup","HANDLES_ROUTE",1,"php-file-route",0,0
+"File:api/commandes.php","Route:/api/commandes","HANDLES_ROUTE",1,"php-file-route",0,0
+"File:api/db.php","Route:/api/db","HANDLES_ROUTE",1,"php-file-route",0,0
+"File:api/debug.php","Route:/api/debug","HANDLES_ROUTE",1,"php-file-route",0,0
+"File:api/dons.php","Route:/api/dons","HANDLES_ROUTE",1,"php-file-route",0,0
+"File:api/evenements.php","Route:/api/evenements","HANDLES_ROUTE",1,"php-file-route",0,0
+"File:api/fournisseurs.php","Route:/api/fournisseurs","HANDLES_ROUTE",1,"php-file-route",0,0
+"File:api/logs.php","Route:/api/logs","HANDLES_ROUTE",1,"php-file-route",0,0
+"File:api/membres.php","Route:/api/membres","HANDLES_ROUTE",1,"php-file-route",0,0
+"File:api/projets.php","Route:/api/projets","HANDLES_ROUTE",1,"php-file-route",0,0
+"File:api/reset_data.php","Route:/api/reset_data","HANDLES_ROUTE",1,"php-file-route",0,0
+"File:api/settings.php","Route:/api/settings","HANDLES_ROUTE",1,"php-file-route",0,0
+"File:api/stocks.php","Route:/api/stocks","HANDLES_ROUTE",1,"php-file-route",0,0
+"File:api/transactions.php","Route:/api/transactions","HANDLES_ROUTE",1,"php-file-route",0,0

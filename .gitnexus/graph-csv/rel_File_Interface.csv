@@ -1,0 +1,4 @@
+from,to,type,confidence,reason,step,staticGated
+"File:src/ui/Button.tsx","Interface:src/ui/Button.tsx:ButtonProps","USES",0.55,"scope-resolution: type-reference",0,0
+"File:src/ui/Input.tsx","Interface:src/ui/Input.tsx:InputProps","USES",0.55,"scope-resolution: type-reference",0,0
+"File:src/ui/Modal.tsx","Interface:src/ui/Modal.tsx:ModalProps","USES",0.55,"scope-resolution: type-reference",0,0

@@ -1,0 +1,38 @@
+# Configuration sécurité API — Gestion ONG
+
+# 1. CORS restreint au domaine de production
+<IfModule mod_headers.c>
+    Header always set Access-Control-Allow-Origin "https://ongases.org"
+    Header always set Access-Control-Allow-Methods "GET, POST, PUT, DELETE, OPTIONS"
+    Header always set Access-Control-Allow-Headers "Content-Type, Authorization"
+    Header always set Access-Control-Allow-Credentials "true"
+</IfModule>
+
+# 2. Le dossier data/ est bloqué (voir aussi api/data/.htaccess)
+<FilesMatch "\.(db|sqlite|sqlite3)$">
+    <IfModule mod_authz_core.c>
+        Require all denied
+    </IfModule>
+    <IfModule !mod_authz_core.c>
+        Order deny,allow
+        Deny from all
+    </IfModule>
+</FilesMatch>
+
+# 3. Fichiers de config / debug bloqués
+<FilesMatch "\.(env|git|log)$|\.htaccess$|config\.php\.bak$">
+    <IfModule mod_authz_core.c>
+        Require all denied
+    </IfModule>
+    <IfModule !mod_authz_core.c>
+        Order deny,allow
+        Deny from all
+    </IfModule>
+</FilesMatch>
+
+# 4. Préflight OPTIONS toujours autorisé (renvoie 200 sans corps)
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteCond %{REQUEST_METHOD} OPTIONS
+    RewriteRule ^(.*)$ - [R=200,L]
+</IfModule>

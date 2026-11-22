@@ -1,0 +1,9 @@
+id,name,filePath,startLine,endLine,content,description
+"TypeAlias:src/types.ts:Module","Module","src/types.ts",0,12,"export type Module =   | 'dashboard'   | 'membres'   | 'projets'   | 'dons'   | 'finances'   | 'evenements'   | 'stocks'   | 'fournisseurs'   | 'commandes'   | 'rapports'   | 'parametres'   | 'logs';",""
+"TypeAlias:ngo-management-platform-design/src/components/Icons.tsx:IconProps","IconProps","ngo-management-platform-design/src/components/Icons.tsx",2,2,"type IconProps = SVGProps<SVGSVGElement>;",""
+"TypeAlias:ngo-management-platform-design/src/components/Icons.tsx:IconName","IconName","ngo-management-platform-design/src/components/Icons.tsx",156,156,"export type IconName = keyof typeof Icon;",""
+"TypeAlias:ngo-management-platform-design/src/components/Sidebar.tsx:PageId","PageId","ngo-management-platform-design/src/components/Sidebar.tsx",4,12,"export type PageId =   | ""dashboard""   | ""projets""   | ""dons""   | ""beneficiaires""   | ""benevoles""   | ""evenements""   | ""finances""   | ""rapports"";",""
+"TypeAlias:src/components/Stocks.tsx:TabType","TabType","src/components/Stocks.tsx",14,14,"type TabType = 'articles' | 'mouvements' | 'categories';",""
+"TypeAlias:src/ui/Button.tsx:ButtonVariant","ButtonVariant","src/ui/Button.tsx",2,2,"export type ButtonVariant = 'primary' | 'secondary' | 'danger' | 'ghost' | 'link';",""
+"TypeAlias:src/ui/Button.tsx:ButtonSize","ButtonSize","src/ui/Button.tsx",3,3,"export type ButtonSize = 'sm' | 'md' | 'lg';",""
+"TypeAlias:src/ui/Toast.tsx:ToastType","ToastType","src/ui/Toast.tsx",3,3,"export type ToastType = 'success' | 'error' | 'warning' | 'info';",""

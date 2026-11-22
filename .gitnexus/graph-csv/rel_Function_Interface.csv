@@ -1,0 +1,13 @@
+from,to,type,confidence,reason,step,staticGated
+"Function:src/components/Layout.tsx:Layout","Interface:src/components/Layout.tsx:LayoutProps","USES",0.53,"scope-resolution: type-reference",0,0
+"Function:src/components/Login.tsx:Login","Interface:src/components/Login.tsx:LoginProps","USES",0.53,"scope-resolution: type-reference",0,0
+"Function:src/components/NotificationPanel.tsx:NotificationPanel","Interface:src/components/NotificationPanel.tsx:NotificationPanelProps","USES",0.53,"scope-resolution: type-reference",0,0
+"Function:src/components/Pagination.tsx:Pagination","Interface:src/components/Pagination.tsx:PaginationProps","USES",0.53,"scope-resolution: type-reference",0,0
+"Function:src/components/dashboard/ActivityFeed.tsx:ActivityFeed","Interface:src/components/dashboard/ActivityFeed.tsx:ActivityFeedProps","USES",0.53,"scope-resolution: type-reference",0,0
+"Function:src/components/dashboard/FundAllocation.tsx:FundAllocation","Interface:src/components/dashboard/FundAllocation.tsx:FundAllocationProps","USES",0.53,"scope-resolution: type-reference",0,0
+"Function:src/components/dashboard/GeographicReach.tsx:GeographicReach","Interface:src/components/dashboard/GeographicReach.tsx:GeographicReachProps","USES",0.53,"scope-resolution: type-reference",0,0
+"Function:src/components/dashboard/KPICard.tsx:KPICard","Interface:src/components/dashboard/KPICard.tsx:KPICardProps","USES",0.53,"scope-resolution: type-reference",0,0
+"Function:src/ui/Badge.tsx:Badge","Interface:src/ui/Badge.tsx:BadgeProps","USES",0.53,"scope-resolution: type-reference",0,0
+"Function:src/ui/Card.tsx:Card","Interface:src/ui/Card.tsx:CardProps","USES",0.53,"scope-resolution: type-reference",0,0
+"Function:src/ui/EmptyState.tsx:EmptyState","Interface:src/ui/EmptyState.tsx:EmptyStateProps","USES",0.53,"scope-resolution: type-reference",0,0
+"Function:src/ui/Toast.tsx:ToastProvider.addToast@41:2","Interface:src/ui/Toast.tsx:Toast","USES",0.51,"scope-resolution: type-reference",0,0

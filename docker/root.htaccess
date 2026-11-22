@@ -1,0 +1,79 @@
+RewriteEngine On
+RewriteBase /
+
+# =============================================================================
+# Gestion ONG — .htaccess racine (Docker / HTTP local)
+# NB : PAS de HSTS ici (trafic HTTP en local). À remettre pour un déploiement HTTPS.
+# =============================================================================
+
+# 0. Désactiver le listing de répertoire
+Options -Indexes
+
+# 1. Racine -> /admin/ (confort : http://localhost:3030/ redirige)
+RewriteRule ^$ /admin/ [R=301,L]
+
+# 2. API : transmettre l'en-tête Authorization vers PHP
+RewriteCond %{HTTP:Authorization} ^(.*)
+RewriteRule .* - [e=HTTP_AUTHORIZATION:%1]
+
+# 3. API : pas de réécriture pour /admin/api/*
+RewriteCond %{REQUEST_URI} ^/admin/api/ [NC]
+RewriteRule ^ - [L]
+
+# 4. Admin : servir le React SPA (/admin/* sans fichier physique -> /admin/index.html)
+RewriteCond %{REQUEST_URI} ^/admin/ [NC]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^ /admin/index.html [L]
+
+# 5. Sécurité : bloquer bases SQLite et fichiers cachés
+<FilesMatch "\.(db|sqlite|sqlite3)$">
+    <IfModule mod_authz_core.c>
+        Require all denied
+    </IfModule>
+    <IfModule !mod_authz_core.c>
+        Order allow,deny
+        Deny from all
+    </IfModule>
+</FilesMatch>
+<FilesMatch "^\.">
+    <IfModule mod_authz_core.c>
+        Require all denied
+    </IfModule>
+    <IfModule !mod_authz_core.c>
+        Order allow,deny
+        Deny from all
+    </IfModule>
+</FilesMatch>
+
+# 6. Compression GZIP
+<IfModule mod_deflate.c>
+    AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css text/javascript application/javascript application/json
+</IfModule>
+
+# 7. Cache navigateur (1 an images, 1 mois CSS/JS — index.html jamais caché)
+<IfModule mod_expires.c>
+    ExpiresActive On
+    ExpiresByType image/jpg "access plus 1 year"
+    ExpiresByType image/jpeg "access plus 1 year"
+    ExpiresByType image/gif "access plus 1 year"
+    ExpiresByType image/png "access plus 1 year"
+    ExpiresByType image/webp "access plus 1 year"
+    ExpiresByType text/css "access plus 1 month"
+    ExpiresByType application/javascript "access plus 1 month"
+</IfModule>
+
+# 8. En-têtes de sécurité (sans HSTS — HTTP local)
+<IfModule mod_headers.c>
+    Header always set X-Content-Type-Options "nosniff"
+    Header always set X-Frame-Options "SAMEORIGIN"
+    Header always set Referrer-Policy "strict-origin-when-cross-origin"
+    Header always set Permissions-Policy "geolocation=(), microphone=(), camera=()"
+</IfModule>
+
+# 9. index.html jamais mis en cache (le build a des hashs)
+<FilesMatch "^index\.html$">
+    <IfModule mod_headers.c>
+        Header set Cache-Control "no-cache, no-store, must-revalidate"
+    </IfModule>
+</FilesMatch>

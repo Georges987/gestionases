@@ -1,0 +1,13 @@
+{
+  "mode": "yolo",
+  "granularity": "coarse",
+  "parallelization": true,
+  "commit_docs": false,
+  "model_profile": "inherit",
+  "workflow": {
+    "research": false,
+    "plan_check": false,
+    "verifier": true,
+    "nyquist_validation": true
+  }
+}

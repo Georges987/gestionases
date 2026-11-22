@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head><title>Générateur d'icône</title></head>
+<body>
+<canvas id="c" width="256" height="256" style="border:1px solid #ccc"></canvas>
+<script>
+  const c = document.getElementById('c');
+  const ctx = c.getContext('2d');
+  
+  // Dessiner une icône simple (coeur vert sur fond blanc)
+  ctx.fillStyle = '#16a34a';
+  ctx.fillRect(0, 0, 256, 256);
+  
+  ctx.fillStyle = '#fbbf24';
+  ctx.font = 'bold 120px Arial';
+  ctx.textAlign = 'center';
+  ctx.textBaseline = 'middle';
+  ctx.fillText('❤', 128, 128);
+  
+  // Convertir en PNG et télécharger
+  const link = document.createElement('a');
+  link.download = 'icon.png';
+  link.href = c.toDataURL();
+  link.click();
+</script>
+</body>
+</html>

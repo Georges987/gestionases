@@ -1,0 +1,3 @@
+from,to,type,confidence,reason,step,staticGated
+"Class:dist_upload/index.es-DibgWzSl.js:le","Property:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:n5.styles@79:856","ACCESSES",0.5,"scope-resolution: unique-name property (ranked): write",0,0
+"Class:dist_upload/index.es-DibgWzSl.js:He","Property:dist_upload/index.es-DibgWzSl.js:Nf.createCanvas@4:11372","ACCESSES",0.5,"scope-resolution: unique-name property (workspace-unique): write",0,0

@@ -1,0 +1,506 @@
+from,to,type,confidence,reason,step,staticGated
+"Method:dist_upload/Finances-CGGP27IQ.js:Zb.constructor#1","Function:dist_upload/Finances-CGGP27IQ.js:Xb","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:Ki.get#2","Function:dist_upload/Finances-CGGP27IQ.js:yO","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:Ki.get#2","Function:dist_upload/Finances-CGGP27IQ.js:st","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:Ki.get#2","Function:dist_upload/Finances-CGGP27IQ.js:lO","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:Ki.get#2","Function:dist_upload/Finances-CGGP27IQ.js:pu","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:Ki.get#2","Function:dist_upload/Finances-CGGP27IQ.js:ki","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:Ki.get#2","Function:dist_upload/Finances-CGGP27IQ.js:ul","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:Ki.set#3","Function:dist_upload/Finances-CGGP27IQ.js:xm","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:Ki.set#3","Function:dist_upload/Finances-CGGP27IQ.js:pu","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:Ki.set#3","Function:dist_upload/Finances-CGGP27IQ.js:uO","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:Ki.set#3","Function:dist_upload/Finances-CGGP27IQ.js:ki","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:Ki.set#3","Function:dist_upload/Finances-CGGP27IQ.js:ol","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:Ki.set#3","Function:dist_upload/Finances-CGGP27IQ.js:pO","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:Ki.deleteProperty#2","Function:dist_upload/Finances-CGGP27IQ.js:ki","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:Ki.deleteProperty#2","Function:dist_upload/Finances-CGGP27IQ.js:pu","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:Ki.deleteProperty#2","Function:dist_upload/Finances-CGGP27IQ.js:ol","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:Ki.defineProperty#0","Function:dist_upload/Finances-CGGP27IQ.js:ot","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:Ki.setPrototypeOf#0","Function:dist_upload/Finances-CGGP27IQ.js:ot","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:constructor#1","Function:dist_upload/Finances-CGGP27IQ.js:ot","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:constructor#1","Function:dist_upload/Finances-CGGP27IQ.js:st","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:constructor#1","Function:dist_upload/Finances-CGGP27IQ.js:ul","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:constructor#1","Function:dist_upload/Finances-CGGP27IQ.js:Jl.fn@0:26324.n@0:26417","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:constructor#1","Function:dist_upload/Finances-CGGP27IQ.js:il","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:constructor#1","Function:dist_upload/Finances-CGGP27IQ.js:al","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:constructor#1","Function:dist_upload/Finances-CGGP27IQ.js:Kf","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:constructor#1","Function:dist_upload/Finances-CGGP27IQ.js:Yf","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:constructor#1","Function:dist_upload/Finances-CGGP27IQ.js:uc","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:constructor#1","Function:dist_upload/Finances-CGGP27IQ.js:br","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:createDraft#1","Function:dist_upload/Finances-CGGP27IQ.js:st","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:createDraft#1","Function:dist_upload/Finances-CGGP27IQ.js:ot","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:createDraft#1","Function:dist_upload/Finances-CGGP27IQ.js:tt","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:createDraft#1","Function:dist_upload/Finances-CGGP27IQ.js:ul","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:createDraft#1","Function:dist_upload/Finances-CGGP27IQ.js:al","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:finishDraft#2","Function:dist_upload/Finances-CGGP27IQ.js:ot","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:finishDraft#2","Function:dist_upload/Finances-CGGP27IQ.js:Kf","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:finishDraft#2","Function:dist_upload/Finances-CGGP27IQ.js:Yf","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:applyPatches#2","Function:dist_upload/Finances-CGGP27IQ.js:br","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:En.prepend","Function:dist_upload/index-B6hk_Y3q.js:Ny.En@8:105617","CALLS",0.5,"global-name-fallback",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:MO.fn@3:39395.g@3:40634.selectors@3:40921#0","Function:dist_upload/Finances-CGGP27IQ.js:MO.fn@3:39395.g@3:40634.O@3:40718","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:mc.get#2","Function:dist_upload/Finances-CGGP27IQ.js:lr","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:mc.get#2","Function:dist_upload/Finances-CGGP27IQ.js:fl","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:mc.get#2","Function:dist_upload/Finances-CGGP27IQ.js:aP","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:mc.get#2","Function:dist_upload/Finances-CGGP27IQ.js:xr","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:mc.get#2","Function:dist_upload/Finances-CGGP27IQ.js:xu","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:mc.get#2","Function:dist_upload/Finances-CGGP27IQ.js:wu","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:mc.get#2","Function:dist_upload/Finances-CGGP27IQ.js:ml","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:mc.has#2","Function:dist_upload/Finances-CGGP27IQ.js:lr","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:mc.ownKeys#1","Function:dist_upload/Finances-CGGP27IQ.js:lr","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:mc.set#3","Function:dist_upload/Finances-CGGP27IQ.js:ey","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:mc.set#3","Function:dist_upload/Finances-CGGP27IQ.js:lr","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:mc.set#3","Function:dist_upload/Finances-CGGP27IQ.js:xu","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:mc.set#3","Function:dist_upload/Finances-CGGP27IQ.js:J1","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:mc.set#3","Function:dist_upload/Finances-CGGP27IQ.js:fl","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:mc.set#3","Function:dist_upload/Finances-CGGP27IQ.js:wu","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:mc.set#3","Function:dist_upload/Finances-CGGP27IQ.js:pl","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:mc.deleteProperty#2","Function:dist_upload/Finances-CGGP27IQ.js:xu","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:mc.deleteProperty#2","Function:dist_upload/Finances-CGGP27IQ.js:wu","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:mc.deleteProperty#2","Function:dist_upload/Finances-CGGP27IQ.js:pl","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:mc.getOwnPropertyDescriptor#2","Function:dist_upload/Finances-CGGP27IQ.js:lr","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:mc.defineProperty#0","Function:dist_upload/Finances-CGGP27IQ.js:ut","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:mc.setPrototypeOf#0","Function:dist_upload/Finances-CGGP27IQ.js:ut","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:constructor#1","Function:dist_upload/Finances-CGGP27IQ.js:ut","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:constructor#1","Function:dist_upload/Finances-CGGP27IQ.js:xr","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:constructor#1","Function:dist_upload/Finances-CGGP27IQ.js:pd","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:constructor#1","Function:dist_upload/Finances-CGGP27IQ.js:ml","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:constructor#1","Function:dist_upload/Finances-CGGP27IQ.js:vl","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:constructor#1","Function:dist_upload/Finances-CGGP27IQ.js:hl","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:constructor#1","Function:dist_upload/Finances-CGGP27IQ.js:hd","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:constructor#1","Function:dist_upload/Finances-CGGP27IQ.js:md","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:constructor#1","Function:dist_upload/Finances-CGGP27IQ.js:pc","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:constructor#1","Function:dist_upload/Finances-CGGP27IQ.js:wr","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:createDraft#1","Function:dist_upload/Finances-CGGP27IQ.js:xr","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:createDraft#1","Function:dist_upload/Finances-CGGP27IQ.js:ut","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:createDraft#1","Function:dist_upload/Finances-CGGP27IQ.js:Hr","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:createDraft#1","Function:dist_upload/Finances-CGGP27IQ.js:uP","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:createDraft#1","Function:dist_upload/Finances-CGGP27IQ.js:pd","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:createDraft#1","Function:dist_upload/Finances-CGGP27IQ.js:ml","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:createDraft#1","Function:dist_upload/Finances-CGGP27IQ.js:hl","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:finishDraft#2","Function:dist_upload/Finances-CGGP27IQ.js:ut","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:finishDraft#2","Function:dist_upload/Finances-CGGP27IQ.js:hd","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:finishDraft#2","Function:dist_upload/Finances-CGGP27IQ.js:md","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:applyPatches#2","Function:dist_upload/Finances-CGGP27IQ.js:wr","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:applyPatches#2","Function:dist_upload/Finances-CGGP27IQ.js:Hr","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:applyPatches#2","Function:dist_upload/Finances-CGGP27IQ.js:Jl.fn@0:26324.n@0:26417","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:reducer#2","Function:dist_upload/Finances-CGGP27IQ.js:tt","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:wv.has#1","Function:dist_upload/Finances-CGGP27IQ.js:Ov","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:wv.set#2","Function:dist_upload/Finances-CGGP27IQ.js:WA","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:wv.delete#1","Function:dist_upload/Finances-CGGP27IQ.js:UA","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:brighter#1","Function:dist_upload/Finances-CGGP27IQ.js:Fe","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:darker#1","Function:dist_upload/Finances-CGGP27IQ.js:Fe","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:clamp#0","Function:dist_upload/Finances-CGGP27IQ.js:Fe","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:clamp#0","Function:dist_upload/Finances-CGGP27IQ.js:mr","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:clamp#0","Function:dist_upload/Finances-CGGP27IQ.js:la","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:brighter#1","Function:dist_upload/Finances-CGGP27IQ.js:lt","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:darker#1","Function:dist_upload/Finances-CGGP27IQ.js:lt","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:rgb#0","Function:dist_upload/Finances-CGGP27IQ.js:Fe","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:rgb#0","Function:dist_upload/Finances-CGGP27IQ.js:Cu","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:clamp#0","Function:dist_upload/Finances-CGGP27IQ.js:lt","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:clamp#0","Function:dist_upload/Finances-CGGP27IQ.js:Iv","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:clamp#0","Function:dist_upload/Finances-CGGP27IQ.js:xi","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:formatHsl#0","Function:dist_upload/Finances-CGGP27IQ.js:la","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:formatHsl#0","Function:dist_upload/Finances-CGGP27IQ.js:Iv","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:formatHsl#0","Function:dist_upload/Finances-CGGP27IQ.js:xi","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:zT.constructor#1","Function:dist_upload/Finances-CGGP27IQ.js:$T","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:Pe.constructor#2","Function:dist_upload/Finances-CGGP27IQ.js:tI","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:Pe.constructor#2","Function:dist_upload/Finances-CGGP27IQ.js:rI","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:updateYAxisWidth#2","Function:dist_upload/Finances-CGGP27IQ.js:np","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Rapports-D4KzLyxD.js:v.y#2","Function:dist_upload/Rapports-D4KzLyxD.js:c","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Rapports-D4KzLyxD.js:v.M#2","Function:dist_upload/Rapports-D4KzLyxD.js:c","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Rapports-D4KzLyxD.js:v.d#2","Function:dist_upload/Rapports-D4KzLyxD.js:c","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Rapports-D4KzLyxD.js:v.h#2","Function:dist_upload/Rapports-D4KzLyxD.js:c","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Rapports-D4KzLyxD.js:v.H#2","Function:dist_upload/Rapports-D4KzLyxD.js:c","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Rapports-D4KzLyxD.js:v.m#2","Function:dist_upload/Rapports-D4KzLyxD.js:c","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Rapports-D4KzLyxD.js:v.s#2","Function:dist_upload/Rapports-D4KzLyxD.js:c","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/Rapports-D4KzLyxD.js:v.S#2","Function:dist_upload/Rapports-D4KzLyxD.js:c","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:If.createImage@4:11045#1","Function:dist_upload/index.es-DibgWzSl.js:Be","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:M.split#0","Function:dist_upload/index.es-DibgWzSl.js:or","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:M.getColor#1","Function:dist_upload/index.es-DibgWzSl.js:Vf","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:M.addOpacity#1","Function:dist_upload/Finances-CGGP27IQ.js:ka","CALLS",0.5,"global-name-fallback",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:ee.parseScale#1","Function:dist_upload/index.es-DibgWzSl.js:me","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:ee.parsePath#1","Function:dist_upload/index.es-DibgWzSl.js:me","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:$r.setViewBox#1","Function:dist_upload/index.es-DibgWzSl.js:or","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:$r.render#7","Function:dist_upload/index.es-DibgWzSl.js:me","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Da.load#1","Function:dist_upload/index.es-DibgWzSl.js:Be","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Kf.constructor#3","Function:dist_upload/index.es-DibgWzSl.js:me","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Bl.constructor#3","Function:dist_upload/index.es-DibgWzSl.js:me","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Je.constructor#3","Function:dist_upload/index.es-DibgWzSl.js:ec","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Je.constructor#3","Function:dist_upload/index.es-DibgWzSl.js:rc","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Je.constructor#3","Function:dist_upload/index.es-DibgWzSl.js:jh.fn@2:1841.u@2:1887","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:K.constructor#2","Function:dist_upload/index.es-DibgWzSl.js:Df","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:le.toString#0","Function:dist_upload/index.es-DibgWzSl.js:nc","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:le.toString#0","Function:dist_upload/index.es-DibgWzSl.js:sc","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:le.toString#0","Function:dist_upload/index.es-DibgWzSl.js:ac","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:ir.setContext#1","Function:dist_upload/index.es-DibgWzSl.js:me","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Y.pathA#1","Function:dist_upload/index.es-DibgWzSl.js:zu","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Y.pathA#1","Function:dist_upload/index.es-DibgWzSl.js:Ba","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:We.getTextFromNode#1","Function:dist_upload/index.es-DibgWzSl.js:or","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:We.getTextFromNode#1","Function:dist_upload/index.es-DibgWzSl.js:_f","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:We.getTextFromNode#1","Function:dist_upload/index.es-DibgWzSl.js:Mf","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:We.renderTElementChildren#1","Function:dist_upload/index.es-DibgWzSl.js:me","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:We.measureTargetText#2","Function:dist_upload/index.es-DibgWzSl.js:me","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Tr.setContext#1","Function:dist_upload/index.es-DibgWzSl.js:me","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:mc.calcValue#0","Function:dist_upload/Finances-CGGP27IQ.js:ka","CALLS",0.5,"global-name-fallback",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:bc.calcValue#0","Function:dist_upload/index.es-DibgWzSl.js:me","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Rc.findSegmentToFitChar#9","Function:dist_upload/index.es-DibgWzSl.js:Rr","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Rc.getPointOnCubicBezier#9","Function:dist_upload/index.es-DibgWzSl.js:Hu","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Rc.getPointOnCubicBezier#9","Function:dist_upload/index.es-DibgWzSl.js:Wu","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Rc.getPointOnCubicBezier#9","Function:dist_upload/index.es-DibgWzSl.js:Yu","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Rc.getPointOnCubicBezier#9","Function:dist_upload/index.es-DibgWzSl.js:Xu","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Rc.getPointOnQuadraticBezier#7","Function:dist_upload/index.es-DibgWzSl.js:Ku","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Rc.getPointOnQuadraticBezier#7","Function:dist_upload/index.es-DibgWzSl.js:Qu","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Rc.getPointOnQuadraticBezier#7","Function:dist_upload/index.es-DibgWzSl.js:Zu","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:wc.loadImage#1","Function:dist_upload/index.es-DibgWzSl.js:Be","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:wc.loadSvg#1","Function:dist_upload/index.es-DibgWzSl.js:Be","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Ac.load#2","Function:dist_upload/index.es-DibgWzSl.js:Be","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Hl.constructor#3","Function:dist_upload/index.es-DibgWzSl.js:or","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Hl.constructor#3","Function:dist_upload/index.es-DibgWzSl.js:$f","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Hl.constructor#3","Function:dist_upload/index.es-DibgWzSl.js:Ll","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Wl.constructor#3","Function:dist_upload/index.es-DibgWzSl.js:me","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Wl.constructor#3","Function:dist_upload/index.es-DibgWzSl.js:je","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Wl.apply#5","Function:dist_upload/index.es-DibgWzSl.js:Cr","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Wl.apply#5","Function:dist_upload/index.es-DibgWzSl.js:te","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Wl.apply#5","Function:dist_upload/index.es-DibgWzSl.js:wr","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Dc.apply#5","Function:dist_upload/index.es-DibgWzSl.js:Pf","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:He.setViewBox#1","Function:dist_upload/index.es-DibgWzSl.js:jc","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:gr.from#2","Function:dist_upload/index.es-DibgWzSl.js:Be","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:gr.fork#2","Function:dist_upload/index.es-DibgWzSl.js:Qe","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:gr.forkString#2","Function:dist_upload/index.es-DibgWzSl.js:Qe","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:gr.render#0","Function:dist_upload/index.es-DibgWzSl.js:Be","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:gr.render#0","Function:dist_upload/index.es-DibgWzSl.js:Qe","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:gr.start#0","Function:dist_upload/index.es-DibgWzSl.js:Qe","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:cl.readUtf8#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:eu","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:cl.decodeText#2","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:eu","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:cl.writeUtf8#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:yc","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:s2.constructor#2","Function:dist_upload/index-B6hk_Y3q.js:Ny.Eu@8:6800","CALLS",0.5,"global-name-fallback",0,0
+"Method:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:s2.decode#0","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:Du","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:s2.decodeApng#0","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:Du","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:s2.decodeChunk#2","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:a2","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:s2.decodeChunk#2","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:Ou","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:s2.decodeApngChunk#2","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:Ou","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:s2.decodeIHDR#0","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:l2","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:s2.decodeiCCP#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:Vf","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:s2.decodeApngImage#0","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:Bu","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:s2.decodeImage#0","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:Bu","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:s2.decodeImage#0","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:V1","CALLS",0.85,"local-call",0,0
+"Method:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:s2.pushDataToFrame#0","Function:dist_upload/index-B6hk_Y3q.js:Ny.Eu@8:6800","CALLS",0.5,"global-name-fallback",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:Dp.constructor#2","Function:dist_upload/Finances-CGGP27IQ.js:_x","ACCESSES",0.51,"scope-resolution: write",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:Dp.point#2","Function:dist_upload/Finances-CGGP27IQ.js:_x","ACCESSES",0.51,"scope-resolution: read",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:MO.fn@3:39395.g@3:40634.selectors@3:40921#0","Function:dist_upload/Finances-CGGP27IQ.js:MO.fn@3:39395.g@3:40634.P@3:40653","ACCESSES",0.51,"scope-resolution: read",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:wv.constructor#2","Function:dist_upload/Finances-CGGP27IQ.js:KA","ACCESSES",0.51,"scope-resolution: read",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:addRadiusAxis#2","Function:dist_upload/Finances-CGGP27IQ.js:id","ACCESSES",0.49000000000000005,"scope-resolution: read",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:removeRadiusAxis#2","Function:dist_upload/Finances-CGGP27IQ.js:id","ACCESSES",0.49000000000000005,"scope-resolution: read",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:addAngleAxis#2","Function:dist_upload/Finances-CGGP27IQ.js:id","ACCESSES",0.49000000000000005,"scope-resolution: read",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:removeAngleAxis#2","Function:dist_upload/Finances-CGGP27IQ.js:id","ACCESSES",0.49000000000000005,"scope-resolution: read",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:XN.render#0","Function:dist_upload/Finances-CGGP27IQ.js:xt","ACCESSES",0.51,"scope-resolution: read",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:XN.render#0","Function:dist_upload/Finances-CGGP27IQ.js:aN","ACCESSES",0.51,"scope-resolution: read",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:XN.render#0","Function:dist_upload/Finances-CGGP27IQ.js:xt","ACCESSES",0.51,"scope-resolution: read",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:XN.render#0","Function:dist_upload/Finances-CGGP27IQ.js:qN","ACCESSES",0.51,"scope-resolution: read",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:XN.render#0","Function:dist_upload/Finances-CGGP27IQ.js:GN","ACCESSES",0.51,"scope-resolution: read",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:constructor#1","Function:dist_upload/Finances-CGGP27IQ.js:ec.fn@0:26906.o@0:27444","USES",0.85,"scope-resolution: value-ref",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:MO.fn@3:39395.injectInto@3:41081#2","Function:dist_upload/Finances-CGGP27IQ.js:MO.fn@3:39395.g@3:40634.O@3:40718","USES",0.85,"scope-resolution: value-ref",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:updateYAxisWidth#2","Function:dist_upload/Finances-CGGP27IQ.js:Jl.fn@0:26324.n@0:26417","USES",0.85,"scope-resolution: value-ref",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:XN.render#0","Function:dist_upload/Finances-CGGP27IQ.js:si.f@0:13779","USES",0.85,"scope-resolution: value-ref",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:XN.render#0","Function:dist_upload/Finances-CGGP27IQ.js:si.c@0:13387","USES",0.85,"scope-resolution: value-ref",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:XN.render#0","Function:dist_upload/Finances-CGGP27IQ.js:ec.fn@0:26906.a@0:27013","USES",0.85,"scope-resolution: value-ref",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:XN.render#0","Function:dist_upload/Finances-CGGP27IQ.js:ec.fn@0:26906.o@0:27444","USES",0.85,"scope-resolution: value-ref",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:XN.render#0","Function:dist_upload/Finances-CGGP27IQ.js:Jl.fn@0:26324.n@0:26417","USES",0.85,"scope-resolution: value-ref",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:zf.setCurrent#2","Function:dist_upload/index.es-DibgWzSl.js:Hh.fn@2:6505.e@2:6516","USES",0.85,"scope-resolution: value-ref",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Y.pathH#1","Function:dist_upload/index.es-DibgWzSl.js:fn@3:9812.i@3:10960","USES",0.85,"scope-resolution: value-ref",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Y.pathV#1","Function:dist_upload/index.es-DibgWzSl.js:fn@3:9812.i@3:10960","USES",0.85,"scope-resolution: value-ref",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Y.pathC#1","Function:dist_upload/index.es-DibgWzSl.js:fn@3:9812.i@3:10960","USES",0.85,"scope-resolution: value-ref",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Y.pathC#1","Function:dist_upload/index.es-DibgWzSl.js:Wh.a@2:7332","USES",0.85,"scope-resolution: value-ref",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Y.pathS#1","Function:dist_upload/index.es-DibgWzSl.js:fn@3:9812.i@3:10960","USES",0.85,"scope-resolution: value-ref",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Y.pathS#1","Function:dist_upload/index.es-DibgWzSl.js:Wh.a@2:7332","USES",0.85,"scope-resolution: value-ref",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Y.pathQ#1","Function:dist_upload/index.es-DibgWzSl.js:fn@3:9812.i@3:10960","USES",0.85,"scope-resolution: value-ref",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Y.pathT#1","Function:dist_upload/index.es-DibgWzSl.js:fn@3:9812.i@3:10960","USES",0.85,"scope-resolution: value-ref",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Y.pathA#1","Function:dist_upload/index.es-DibgWzSl.js:fn@3:9812.i@3:10960","USES",0.85,"scope-resolution: value-ref",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Y.pathA#1","Function:dist_upload/index.es-DibgWzSl.js:Wh.a@2:7332","USES",0.85,"scope-resolution: value-ref",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Y.pathA#1","Function:dist_upload/index.es-DibgWzSl.js:jh.fn@2:1841.u@2:1887","USES",0.85,"scope-resolution: value-ref",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Y.pathA#1","Function:dist_upload/index.es-DibgWzSl.js:Zh.l@2:10081","USES",0.85,"scope-resolution: value-ref",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Y.pathA#1","Function:dist_upload/index.es-DibgWzSl.js:tn.fn@2:737.p@2:1034","USES",0.85,"scope-resolution: value-ref",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Tr.setContext#1","Function:dist_upload/index.es-DibgWzSl.js:Hh.fn@2:6505.e@2:6516","USES",0.85,"scope-resolution: value-ref",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Tr.setContext#1","Function:dist_upload/index.es-DibgWzSl.js:jh.fn@2:1841.u@2:1887","USES",0.85,"scope-resolution: value-ref",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Tr.setContext#1","Function:dist_upload/index.es-DibgWzSl.js:Zh.l@2:10081","USES",0.85,"scope-resolution: value-ref",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Tr.setContext#1","Function:dist_upload/index.es-DibgWzSl.js:tn.fn@2:737.p@2:1034","USES",0.85,"scope-resolution: value-ref",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Tr.setContext#1","Function:dist_upload/index.es-DibgWzSl.js:$r.start.m@4:21946","USES",0.85,"scope-resolution: value-ref",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Rc.findSegmentToFitChar#9","Function:dist_upload/index.es-DibgWzSl.js:tn.fn@2:737.p@2:1034","USES",0.85,"scope-resolution: value-ref",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Rc.parsePathData#1","Function:dist_upload/index.es-DibgWzSl.js:jh.fn@2:1841.u@2:1887","USES",0.85,"scope-resolution: value-ref",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Rc.parsePathData#1","Function:dist_upload/index.es-DibgWzSl.js:Zh.l@2:10081","USES",0.85,"scope-resolution: value-ref",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Rc.parsePathData#1","Function:dist_upload/index.es-DibgWzSl.js:Wh.a@2:7332","USES",0.85,"scope-resolution: value-ref",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Rc.getPointOnQuadraticBezier#7","Function:dist_upload/index.es-DibgWzSl.js:jh.fn@2:1841.u@2:1887","USES",0.85,"scope-resolution: value-ref",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Rc.getPointOnQuadraticBezier#7","Function:dist_upload/index.es-DibgWzSl.js:Zh.l@2:10081","USES",0.85,"scope-resolution: value-ref",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Rc.buildEquidistantCache#2","Function:dist_upload/index.es-DibgWzSl.js:Wh.a@2:7332","USES",0.85,"scope-resolution: value-ref",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Rc.buildEquidistantCache#2","Function:dist_upload/index.es-DibgWzSl.js:fn@3:9812.i@3:10960","USES",0.85,"scope-resolution: value-ref",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:wc.renderChildren#1","Function:dist_upload/index.es-DibgWzSl.js:jh.fn@2:1841.u@2:1887","USES",0.85,"scope-resolution: value-ref",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:wc.renderChildren#1","Function:dist_upload/index.es-DibgWzSl.js:Hh.fn@2:6505.e@2:6516","USES",0.85,"scope-resolution: value-ref",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:wc.renderChildren#1","Function:dist_upload/index.es-DibgWzSl.js:jh.fn@2:1841.u@2:1887","USES",0.85,"scope-resolution: value-ref",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:NO.reducer@3:41457#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:Mc","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:copy#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:Mc","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:displayable#0","Function:dist_upload/html2canvas.esm-Ge7aVWlp.js:Ht","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:zT.set#2","Function:dist_upload/index-B6hk_Y3q.js:Ny.l@8:22673","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:zT.set#2","Function:dist_upload/index-B6hk_Y3q.js:Ny.f@8:23406","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:zT.set#2","Function:dist_upload/index-B6hk_Y3q.js:Ny.o@8:23215","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:zT.set#2","Function:dist_upload/index-B6hk_Y3q.js:Ny.N@8:25219","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:zT.set#2","Function:dist_upload/index-B6hk_Y3q.js:qy.fn@9:42438.fn@9:42480.Ci@11:87395.fn@11:87430.O@11:87662","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:zT.set#2","Function:dist_upload/Finances-CGGP27IQ.js:NO.e@3:41349","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:Pe.parse#1","Function:dist_upload/index.es-DibgWzSl.js:Hh.fn@2:6505.e@2:6516","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index-B6hk_Y3q.js:Uh.constructor#0","Function:dist_upload/index-B6hk_Y3q.js:Ny.j@8:24019","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:M.split#0","Function:dist_upload/index-B6hk_Y3q.js:Sy.C@1:5208","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:M.getDefinition#0","Function:dist_upload/index.es-DibgWzSl.js:Hh.fn@2:6505.e@2:6516","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:$r.setViewBox#1","Function:dist_upload/Finances-CGGP27IQ.js:Jl.fn@0:26324.n@0:26417","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:$r.setViewBox#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Z@41:45314","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:$r.setViewBox#1","Function:dist_upload/Finances-CGGP27IQ.js:Jl.fn@0:26324.n@0:26417","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:$r.setViewBox#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Z@41:45314","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:$r.setViewBox#1","Function:dist_upload/Finances-CGGP27IQ.js:Jl.fn@0:26324.n@0:26417","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:$r.setViewBox#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Z@41:45314","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:$r.start#1","Function:dist_upload/index-B6hk_Y3q.js:Ny._@1:20755","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:$r.start#1","Function:dist_upload/html2canvas.esm-Ge7aVWlp.js:P.B@0:695","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:$r.start#1","Function:dist_upload/index-B6hk_Y3q.js:Ny.Ef@8:37847.m@8:38411","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:$r.start#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.ot@41:45546","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:$r.render#7","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:$r.render#7","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:$r.render#7","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:$r.render#7","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:$r.render#7","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:$r.render#7","Function:dist_upload/index-B6hk_Y3q.js:Ny._@1:20755","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Da.load#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.c@41:72206","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Da.load#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:fn@41:112803.M@41:133076","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Da.load#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:$l.f@1:2781","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Qf.apply#1","Function:dist_upload/Finances-CGGP27IQ.js:Jl.fn@0:26324.n@0:26417","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Qf.apply#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Z@41:45314","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Qf.unapply#1","Function:dist_upload/Finances-CGGP27IQ.js:Jl.fn@0:26324.n@0:26417","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Qf.unapply#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Z@41:45314","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Je.fromElement#2","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Je.fromElement#2","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:K.constructor#2","Function:dist_upload/index-B6hk_Y3q.js:Ny.Ef@8:37847.n@8:37952","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:K.constructor#2","Function:dist_upload/index-B6hk_Y3q.js:Sy.c@1:6651","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:K.constructor#2","Function:dist_upload/index-B6hk_Y3q.js:Ny.Ef@8:37847.n@8:37952","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:K.constructor#2","Function:dist_upload/index-B6hk_Y3q.js:Sy.c@1:6651","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:K.constructor#2","Function:dist_upload/index-B6hk_Y3q.js:Ny.Ef@8:37847.n@8:37952","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:K.constructor#2","Function:dist_upload/index-B6hk_Y3q.js:Sy.c@1:6651","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:K.constructor#2","Function:dist_upload/Finances-CGGP27IQ.js:ec.fn@0:26906.o@0:27444","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:K.constructor#2","Function:dist_upload/index-B6hk_Y3q.js:Ny.l@8:22673","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:K.constructor#2","Function:dist_upload/index-B6hk_Y3q.js:Ny.i@8:22936","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:K.constructor#2","Function:dist_upload/index-B6hk_Y3q.js:Sy.C@1:5208","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:K.constructor#2","Function:dist_upload/index-B6hk_Y3q.js:Sy.C@1:5208","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:K.constructor#2","Function:dist_upload/Finances-CGGP27IQ.js:ec.fn@0:26906.o@0:27444","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:K.constructor#2","Function:dist_upload/index-B6hk_Y3q.js:Ny.l@8:22673","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:K.constructor#2","Function:dist_upload/index-B6hk_Y3q.js:Ny.i@8:22936","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:K.getStyle#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:K.render#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:K.render#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:K.render#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:K.render#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:K.render#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:K.render#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:K.applyEffects#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:K.renderChildren#1","Function:dist_upload/index-B6hk_Y3q.js:Ny._@1:20755","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:K.removeStyles#2","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:K.restoreStyles#2","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:ir.calculateOpacity#0","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:ir.setContext#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:ir.setContext#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:ir.setContext#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:ir.setContext#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:ir.setContext#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:ir.setContext#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:ir.setContext#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:ir.setContext#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:ir.setContext#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:ir.setContext#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:ir.setContext#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:ir.setContext#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:ir.setContext#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:ir.setContext#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:ir.setContext#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:ir.setContext#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:ir.setContext#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:ir.setContext#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:ir.setContext#1","Function:dist_upload/Finances-CGGP27IQ.js:_v","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:ir.setContext#1","Function:dist_upload/Finances-CGGP27IQ.js:Cv","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Y.path#1","Function:dist_upload/Finances-CGGP27IQ.js:NO.e@3:41349","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Y.path#1","Function:dist_upload/index-B6hk_Y3q.js:Ny.l@8:22673","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Y.getMarkers#0","Function:dist_upload/index-B6hk_Y3q.js:Sy.C@1:5208","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Y.renderChildren#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Y.renderChildren#1","Function:dist_upload/Finances-CGGP27IQ.js:ec.fn@0:26906.o@0:27444","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Y.renderChildren#1","Function:dist_upload/Finances-CGGP27IQ.js:ec.fn@0:26906.a@0:27013","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Y.renderChildren#1","Function:dist_upload/Finances-CGGP27IQ.js:ec.fn@0:26906.o@0:27444","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Y.renderChildren#1","Function:dist_upload/Finances-CGGP27IQ.js:ec.fn@0:26906.a@0:27013","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Y.renderChildren#1","Function:dist_upload/Dashboard-G2ez2KDt.js:y.s@0:5619","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Y.renderChildren#1","Function:dist_upload/Dashboard-G2ez2KDt.js:y.s@0:5619","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Y.renderChildren#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Y.renderChildren#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Y.renderChildren#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Y.renderChildren#1","Function:dist_upload/index-B6hk_Y3q.js:Ny._@1:20755","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Y.renderChildren#1","Function:dist_upload/index-B6hk_Y3q.js:Ny._@1:20755","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Y.renderChildren#1","Function:dist_upload/index-B6hk_Y3q.js:Ny._@1:20755","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Y.pathA#2","Function:dist_upload/Finances-CGGP27IQ.js:Jl.fn@0:26324.n@0:26417","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Y.pathA#2","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Z@41:45314","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Y.pathA#2","Function:dist_upload/Finances-CGGP27IQ.js:Jl.fn@0:26324.n@0:26417","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Y.pathA#2","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Z@41:45314","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:We.setContext#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:We.setContext#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:We.getFontSize#0","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:We.getTElementBoundingBox#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Ct@41:46478","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:We.getTextFromNode#1","Function:dist_upload/Finances-CGGP27IQ.js:ec.fn@0:26906.o@0:27444","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:We.getTextFromNode#1","Function:dist_upload/index-B6hk_Y3q.js:Ny.l@8:22673","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:We.getTextFromNode#1","Function:dist_upload/index-B6hk_Y3q.js:Ny.i@8:22936","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:We.renderTElementChildren#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:We.renderTElementChildren#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:We.renderTElementChildren#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:We.renderTElementChildren#1","Function:dist_upload/Finances-CGGP27IQ.js:Jl.fn@0:26324.n@0:26417","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:We.renderTElementChildren#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Z@41:45314","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:We.renderTElementChildren#1","Function:dist_upload/index-B6hk_Y3q.js:Ny._@1:20755","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:We.renderTElementChildren#1","Function:dist_upload/Finances-CGGP27IQ.js:Jl.fn@0:26324.n@0:26417","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:We.renderTElementChildren#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Z@41:45314","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:We.applyAnchoring#0","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:We.adjustChildCoordinates#4","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:We.renderChild#4","Function:dist_upload/index-B6hk_Y3q.js:Ny._@1:20755","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:We.measureTargetText#2","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:We.measureTargetText#2","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Ct@41:46478","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Tr.setContext#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Tr.setContext#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Tr.setContext#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Tr.setContext#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Tr.setContext#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Tr.setContext#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Tr.setContext#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Tr.setContext#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Tr.setContext#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Tr.setContext#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Tr.setContext#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Tr.setContext#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Tr.resize#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Tr.resize#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Gl.path#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Gl.path#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:cc.createPattern#3","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:cc.createPattern#3","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:cc.createPattern#3","Function:dist_upload/index-B6hk_Y3q.js:Ny._@1:20755","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:vc.render#3","Function:dist_upload/Finances-CGGP27IQ.js:Jl.fn@0:26324.n@0:26417","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:vc.render#3","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Z@41:45314","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:vc.render#3","Function:dist_upload/index-B6hk_Y3q.js:Ny._@1:20755","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:vc.render#3","Function:dist_upload/Finances-CGGP27IQ.js:Jl.fn@0:26324.n@0:26417","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:vc.render#3","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Z@41:45314","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:zl.createGradient#3","Function:dist_upload/index-B6hk_Y3q.js:Ny._@1:20755","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:yc.constructor#3","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:yc.constructor#3","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:hn.getProperty#0","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:bc.calcValue#0","Function:dist_upload/index-B6hk_Y3q.js:Sy.C@1:5208","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:xc.constructor#3","Function:dist_upload/index-B6hk_Y3q.js:Ny.Ef@8:37847.n@8:37952","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:xc.constructor#3","Function:dist_upload/index-B6hk_Y3q.js:Sy.c@1:6651","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:xc.constructor#3","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:xc.constructor#3","Function:dist_upload/index-B6hk_Y3q.js:Ny.Ef@8:37847.n@8:37952","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:xc.constructor#3","Function:dist_upload/index-B6hk_Y3q.js:Sy.c@1:6651","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Ec.constructor#3","Function:dist_upload/Finances-CGGP27IQ.js:ec.fn@0:26906.o@0:27444","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Ec.constructor#3","Function:dist_upload/index-B6hk_Y3q.js:Ny.l@8:22673","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Ec.constructor#3","Function:dist_upload/index-B6hk_Y3q.js:Ny.i@8:22936","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Ec.renderChildren#1","Function:dist_upload/index-B6hk_Y3q.js:Ny._@1:20755","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Rc.path#1","Function:dist_upload/Finances-CGGP27IQ.js:Jl.fn@0:26324.n@0:26417","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Rc.path#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Z@41:45314","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Rc.path#1","Function:dist_upload/Finances-CGGP27IQ.js:Jl.fn@0:26324.n@0:26417","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Rc.path#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Z@41:45314","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Rc.renderChildren#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Rc.renderChildren#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Ct@41:46478","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Rc.renderChildren#1","Function:dist_upload/Dashboard-G2ez2KDt.js:y.s@0:5619","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Rc.setTextData#1","Function:dist_upload/index-B6hk_Y3q.js:Sy.C@1:5208","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Rc.setTextData#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Rc.setTextData#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Rc.setTextData#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Rc.setTextData#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Ct@41:46478","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Rc.setTextData#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Rc.parsePathData#1","Function:dist_upload/Finances-CGGP27IQ.js:NO.e@3:41349","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Rc.parsePathData#1","Function:dist_upload/index-B6hk_Y3q.js:Ny.l@8:22673","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:wc.loadImage#1","Function:dist_upload/index-B6hk_Y3q.js:Ny._@1:20755","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:wc.loadImage#1","Function:dist_upload/index-B6hk_Y3q.js:Ny.ih@9:34137.e@9:34151","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:wc.loadImage#1","Function:dist_upload/index-B6hk_Y3q.js:qy.fn@9:42438.fn@9:42480.Ci@11:87395.fn@11:87430.O@11:87662","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:wc.loadImage#1","Function:dist_upload/index-B6hk_Y3q.js:Ny.i@8:22936","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:wc.loadImage#1","Function:dist_upload/index-B6hk_Y3q.js:Dg.q@195:11860","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:wc.loadSvg#1","Function:dist_upload/index.es-DibgWzSl.js:Hh.fn@2:6505.e@2:6516","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:wc.loadSvg#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.c@41:72206","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:wc.loadSvg#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:fn@41:112803.M@41:133076","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:wc.loadSvg#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:$l.f@1:2781","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:wc.loadSvg#1","Function:dist_upload/index-B6hk_Y3q.js:Ny._@1:20755","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:wc.loadSvg#1","Function:dist_upload/index-B6hk_Y3q.js:Ny.ih@9:34137.e@9:34151","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:wc.loadSvg#1","Function:dist_upload/index-B6hk_Y3q.js:qy.fn@9:42438.fn@9:42480.Ci@11:87395.fn@11:87430.O@11:87662","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:wc.loadSvg#1","Function:dist_upload/index-B6hk_Y3q.js:Ny.i@8:22936","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:wc.loadSvg#1","Function:dist_upload/index-B6hk_Y3q.js:Dg.q@195:11860","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:wc.renderChildren#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:wc.renderChildren#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:wc.renderChildren#1","Function:dist_upload/index-B6hk_Y3q.js:Ny._@1:20755","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:wc.getBoundingBox#0","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:wc.getBoundingBox#0","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Ac.load#2","Function:dist_upload/Finances-CGGP27IQ.js:ec.fn@0:26906.o@0:27444","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Ac.load#2","Function:dist_upload/index-B6hk_Y3q.js:Ny.l@8:22673","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Ac.load#2","Function:dist_upload/index-B6hk_Y3q.js:Ny.i@8:22936","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Ac.load#2","Function:dist_upload/index-B6hk_Y3q.js:Ny._@1:20755","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Ac.load#2","Function:dist_upload/index-B6hk_Y3q.js:Ny.ih@9:34137.e@9:34151","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Ac.load#2","Function:dist_upload/index-B6hk_Y3q.js:qy.fn@9:42438.fn@9:42480.Ci@11:87395.fn@11:87430.O@11:87662","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Ac.load#2","Function:dist_upload/index-B6hk_Y3q.js:Ny.i@8:22936","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Ac.load#2","Function:dist_upload/index-B6hk_Y3q.js:Dg.q@195:11860","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Hl.constructor#3","Function:dist_upload/Finances-CGGP27IQ.js:ec.fn@0:26906.o@0:27444","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Hl.constructor#3","Function:dist_upload/index-B6hk_Y3q.js:Ny.l@8:22673","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Hl.constructor#3","Function:dist_upload/index-B6hk_Y3q.js:Ny.i@8:22936","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Hl.constructor#3","Function:dist_upload/index-B6hk_Y3q.js:Sy.C@1:5208","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Ic.renderChildren#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Ic.renderChildren#1","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Ic.renderChildren#1","Function:dist_upload/index-B6hk_Y3q.js:Ny._@1:20755","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Hr.apply#2","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Hr.apply#2","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Va@41:66369","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Hr.apply#2","Function:dist_upload/index-B6hk_Y3q.js:Ny._@1:20755","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Wr.apply#2","Function:dist_upload/index-B6hk_Y3q.js:Ny._@1:20755","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:He.constructor#1","Function:dist_upload/index-B6hk_Y3q.js:Ny.Ef@8:37847.n@8:37952","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:He.constructor#1","Function:dist_upload/index-B6hk_Y3q.js:Sy.c@1:6651","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:He.constructor#1","Function:dist_upload/index-B6hk_Y3q.js:Ny.Ef@8:37847.n@8:37952","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:He.constructor#1","Function:dist_upload/index-B6hk_Y3q.js:Sy.c@1:6651","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:He.constructor#1","Function:dist_upload/index-B6hk_Y3q.js:Ny.Ef@8:37847.n@8:37952","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:He.constructor#1","Function:dist_upload/index-B6hk_Y3q.js:Sy.c@1:6651","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:gr.fork#2","Function:dist_upload/Finances-CGGP27IQ.js:ec.fn@0:26906.o@0:27444","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:gr.fork#2","Function:dist_upload/index-B6hk_Y3q.js:Ny.l@8:22673","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:gr.fork#2","Function:dist_upload/index-B6hk_Y3q.js:Ny.i@8:22936","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:gr.render#0","Function:dist_upload/html2canvas.esm-Ge7aVWlp.js:P.B@0:695","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:gr.render#0","Function:dist_upload/index-B6hk_Y3q.js:Ny.Ef@8:37847.m@8:38411","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:gr.render#0","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.ot@41:45546","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:gr.start#0","Function:dist_upload/html2canvas.esm-Ge7aVWlp.js:P.B@0:695","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:gr.start#0","Function:dist_upload/index-B6hk_Y3q.js:Ny.Ef@8:37847.m@8:38411","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:gr.start#0","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.ot@41:45546","CALLS",0.7,"property-dispatch",0,0
+"Method:dist_upload/Dashboard-G2ez2KDt.js:ht.get@0:3251#1","Function:dist_upload/Dashboard-G2ez2KDt.js:ht.a@0:3179","CALLS",0.8,"callable-value-flow",0,0
+"Method:dist_upload/Dashboard-G2ez2KDt.js:ht.set@0:3330#2","Function:dist_upload/Dashboard-G2ez2KDt.js:ht.a@0:3179","CALLS",0.8,"callable-value-flow",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:Ki.get#2","Function:dist_upload/Finances-CGGP27IQ.js:qf","CALLS",0.8,"callable-value-flow",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:Ki.set#3","Function:dist_upload/Finances-CGGP27IQ.js:qf","CALLS",0.8,"callable-value-flow",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:constructor#1","Function:dist_upload/Finances-CGGP27IQ.js:Lr","CALLS",0.8,"callable-value-flow",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:constructor#1","Function:dist_upload/Finances-CGGP27IQ.js:Lr","CALLS",0.8,"callable-value-flow",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:constructor#1","Function:dist_upload/Finances-CGGP27IQ.js:Lr","CALLS",0.8,"callable-value-flow",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:constructor#1","Function:dist_upload/Finances-CGGP27IQ.js:Lr","CALLS",0.8,"callable-value-flow",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:constructor#1","Function:dist_upload/Finances-CGGP27IQ.js:Hf","CALLS",0.8,"callable-value-flow",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:constructor#1","Function:dist_upload/Finances-CGGP27IQ.js:ac","CALLS",0.8,"callable-value-flow",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:constructor#1","Function:dist_upload/Finances-CGGP27IQ.js:Lr","CALLS",0.8,"callable-value-flow",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:constructor#1","Function:dist_upload/Finances-CGGP27IQ.js:hu","CALLS",0.8,"callable-value-flow",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:constructor#1","Function:dist_upload/Finances-CGGP27IQ.js:hu","CALLS",0.8,"callable-value-flow",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:constructor#1","Function:dist_upload/Finances-CGGP27IQ.js:hu","CALLS",0.8,"callable-value-flow",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:createDraft#1","Function:dist_upload/Finances-CGGP27IQ.js:Dt","CALLS",0.8,"callable-value-flow",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:createDraft#1","Function:dist_upload/Finances-CGGP27IQ.js:Hf","CALLS",0.8,"callable-value-flow",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:applyPatches#2","Function:dist_upload/Finances-CGGP27IQ.js:Dt","CALLS",0.8,"callable-value-flow",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:Pe.constructor#2","Function:dist_upload/Finances-CGGP27IQ.js:wt","CALLS",0.8,"callable-value-flow",0,0
+"Method:dist_upload/Finances-CGGP27IQ.js:Pe.isNaN#0","Function:dist_upload/Finances-CGGP27IQ.js:wt","CALLS",0.8,"callable-value-flow",0,0
+"Method:dist_upload/html2canvas.esm-Ge7aVWlp.js:N.SUPPORT_RANGE_BOUNDS#0","Function:dist_upload/html2canvas.esm-Ge7aVWlp.js:no","CALLS",0.8,"callable-value-flow",0,0
+"Method:dist_upload/html2canvas.esm-Ge7aVWlp.js:N.SUPPORT_WORD_BREAKING#0","Function:dist_upload/html2canvas.esm-Ge7aVWlp.js:so","CALLS",0.8,"callable-value-flow",0,0
+"Method:dist_upload/html2canvas.esm-Ge7aVWlp.js:N.SUPPORT_SVG_DRAWING#0","Function:dist_upload/html2canvas.esm-Ge7aVWlp.js:oo","CALLS",0.8,"callable-value-flow",0,0
+"Method:dist_upload/html2canvas.esm-Ge7aVWlp.js:N.SUPPORT_FOREIGNOBJECT_DRAWING#0","Function:dist_upload/html2canvas.esm-Ge7aVWlp.js:Qo","CALLS",0.8,"callable-value-flow",0,0
+"Method:dist_upload/html2canvas.esm-Ge7aVWlp.js:N.SUPPORT_CORS_IMAGES#0","Function:dist_upload/html2canvas.esm-Ge7aVWlp.js:ao","CALLS",0.8,"callable-value-flow",0,0
+"Method:dist_upload/html2canvas.esm-Ge7aVWlp.js:N.SUPPORT_RESPONSE_TYPE#0","Function:dist_upload/html2canvas.esm-Ge7aVWlp.js:io","CALLS",0.8,"callable-value-flow",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:cc.createPattern#3","Function:dist_upload/index.es-DibgWzSl.js:fn@3:9812.i@3:10960","CALLS",0.7,"callable-value-flow",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:cc.createPattern#3","Function:dist_upload/index.es-DibgWzSl.js:Bc","CALLS",0.7,"callable-value-flow",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:zl.createGradient#3","Function:dist_upload/index.es-DibgWzSl.js:fn@3:9812.i@3:10960","CALLS",0.7,"callable-value-flow",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:zl.createGradient#3","Function:dist_upload/index.es-DibgWzSl.js:Bc","CALLS",0.7,"callable-value-flow",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:wc.loadImage#1","Function:dist_upload/index.es-DibgWzSl.js:Fc","CALLS",0.7,"callable-value-flow",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Hr.apply#2","Function:dist_upload/index.es-DibgWzSl.js:fn@3:9812.i@3:10960","CALLS",0.7,"callable-value-flow",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Hr.apply#2","Function:dist_upload/index.es-DibgWzSl.js:Bc","CALLS",0.7,"callable-value-flow",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Hr.apply#2","Function:dist_upload/index.es-DibgWzSl.js:fn@3:9812.i@3:10960","CALLS",0.7,"callable-value-flow",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Hr.apply#2","Function:dist_upload/index.es-DibgWzSl.js:Bc","CALLS",0.7,"callable-value-flow",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Wr.apply#2","Function:dist_upload/index.es-DibgWzSl.js:fn@3:9812.i@3:10960","CALLS",0.7,"callable-value-flow",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Wr.apply#2","Function:dist_upload/index.es-DibgWzSl.js:Bc","CALLS",0.7,"callable-value-flow",0,0
+"Method:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:s2.addFrameDataToCanvas#2","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:s2.addFrameDataToCanvas.a@2:38384","CALLS",0.8,"callable-value-flow",0,0
+"Method:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:s2.addFrameDataToCanvas#2","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:s2.addFrameDataToCanvas.a@2:38384","CALLS",0.8,"callable-value-flow",0,0

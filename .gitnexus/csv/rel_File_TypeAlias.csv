@@ -1,0 +1,9 @@
+from,to,type,confidence,reason,step,staticGated
+"File:src/types.ts","TypeAlias:src/types.ts:Module","DEFINES",1,"",0,0
+"File:ngo-management-platform-design/src/components/Icons.tsx","TypeAlias:ngo-management-platform-design/src/components/Icons.tsx:IconProps","DEFINES",1,"",0,0
+"File:ngo-management-platform-design/src/components/Icons.tsx","TypeAlias:ngo-management-platform-design/src/components/Icons.tsx:IconName","DEFINES",1,"",0,0
+"File:ngo-management-platform-design/src/components/Sidebar.tsx","TypeAlias:ngo-management-platform-design/src/components/Sidebar.tsx:PageId","DEFINES",1,"",0,0
+"File:src/components/Stocks.tsx","TypeAlias:src/components/Stocks.tsx:TabType","DEFINES",1,"",0,0
+"File:src/ui/Button.tsx","TypeAlias:src/ui/Button.tsx:ButtonVariant","DEFINES",1,"",0,0
+"File:src/ui/Button.tsx","TypeAlias:src/ui/Button.tsx:ButtonSize","DEFINES",1,"",0,0
+"File:src/ui/Toast.tsx","TypeAlias:src/ui/Toast.tsx:ToastType","DEFINES",1,"",0,0

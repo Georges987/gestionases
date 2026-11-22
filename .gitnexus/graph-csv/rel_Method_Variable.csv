@@ -1,0 +1,12 @@
+from,to,type,confidence,reason,step,staticGated
+"Method:dist_upload/html2canvas.esm-Ge7aVWlp.js:N.SUPPORT_RANGE_BOUNDS#0","Variable:dist_upload/html2canvas.esm-Ge7aVWlp.js:N","ACCESSES",0.51,"scope-resolution: read",0,0
+"Method:dist_upload/html2canvas.esm-Ge7aVWlp.js:N.SUPPORT_WORD_BREAKING#0","Variable:dist_upload/html2canvas.esm-Ge7aVWlp.js:N","ACCESSES",0.51,"scope-resolution: read",0,0
+"Method:dist_upload/html2canvas.esm-Ge7aVWlp.js:N.SUPPORT_SVG_DRAWING#0","Variable:dist_upload/html2canvas.esm-Ge7aVWlp.js:N","ACCESSES",0.51,"scope-resolution: read",0,0
+"Method:dist_upload/html2canvas.esm-Ge7aVWlp.js:N.SUPPORT_FOREIGNOBJECT_DRAWING#0","Variable:dist_upload/html2canvas.esm-Ge7aVWlp.js:N","ACCESSES",0.51,"scope-resolution: read",0,0
+"Method:dist_upload/html2canvas.esm-Ge7aVWlp.js:N.SUPPORT_CORS_IMAGES#0","Variable:dist_upload/html2canvas.esm-Ge7aVWlp.js:N","ACCESSES",0.51,"scope-resolution: read",0,0
+"Method:dist_upload/html2canvas.esm-Ge7aVWlp.js:N.SUPPORT_RESPONSE_TYPE#0","Variable:dist_upload/html2canvas.esm-Ge7aVWlp.js:N","ACCESSES",0.51,"scope-resolution: read",0,0
+"Method:dist_upload/html2canvas.esm-Ge7aVWlp.js:N.SUPPORT_CORS_XHR#0","Variable:dist_upload/html2canvas.esm-Ge7aVWlp.js:N","ACCESSES",0.51,"scope-resolution: read",0,0
+"Method:dist_upload/html2canvas.esm-Ge7aVWlp.js:N.SUPPORT_NATIVE_TEXT_SEGMENTATION#0","Variable:dist_upload/html2canvas.esm-Ge7aVWlp.js:N","ACCESSES",0.51,"scope-resolution: read",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:$r.constructor#1","Variable:dist_upload/index.es-DibgWzSl.js:jl","ACCESSES",0.51,"scope-resolution: read",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:$r.constructor#1","Variable:dist_upload/index.es-DibgWzSl.js:kl","ACCESSES",0.51,"scope-resolution: read",0,0
+"Method:dist_upload/index.es-DibgWzSl.js:Da.constructor#0","Variable:dist_upload/index.es-DibgWzSl.js:Yf","ACCESSES",0.51,"scope-resolution: read",0,0

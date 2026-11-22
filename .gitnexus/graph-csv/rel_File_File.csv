@@ -1,0 +1,191 @@
+from,to,type,confidence,reason,step,staticGated
+"File:ngo-management-platform-design/src/App.tsx","File:ngo-management-platform-design/src/components/Sidebar.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:ngo-management-platform-design/src/App.tsx","File:ngo-management-platform-design/src/components/TopBar.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:ngo-management-platform-design/src/App.tsx","File:ngo-management-platform-design/src/pages/Dashboard.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:ngo-management-platform-design/src/App.tsx","File:ngo-management-platform-design/src/pages/Projets.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:ngo-management-platform-design/src/App.tsx","File:ngo-management-platform-design/src/pages/Dons.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:ngo-management-platform-design/src/App.tsx","File:ngo-management-platform-design/src/pages/Beneficiaires.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:ngo-management-platform-design/src/App.tsx","File:ngo-management-platform-design/src/pages/Benevoles.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:ngo-management-platform-design/src/App.tsx","File:ngo-management-platform-design/src/pages/Evenements.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:ngo-management-platform-design/src/App.tsx","File:ngo-management-platform-design/src/pages/Finances.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:ngo-management-platform-design/src/App.tsx","File:ngo-management-platform-design/src/pages/Rapports.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:ngo-management-platform-design/src/components/Sidebar.tsx","File:ngo-management-platform-design/src/components/Icons.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:ngo-management-platform-design/src/components/Sidebar.tsx","File:ngo-management-platform-design/src/data/mockData.ts","IMPORTS",1,"typescript-scope: import",0,0
+"File:ngo-management-platform-design/src/components/Sidebar.tsx","File:ngo-management-platform-design/src/utils/cn.ts","IMPORTS",1,"typescript-scope: import",0,0
+"File:ngo-management-platform-design/src/components/TopBar.tsx","File:ngo-management-platform-design/src/components/Icons.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:ngo-management-platform-design/src/components/UI.tsx","File:ngo-management-platform-design/src/utils/cn.ts","IMPORTS",1,"typescript-scope: import",0,0
+"File:ngo-management-platform-design/src/main.tsx","File:ngo-management-platform-design/src/App.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:ngo-management-platform-design/src/pages/Beneficiaires.tsx","File:ngo-management-platform-design/src/components/UI.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:ngo-management-platform-design/src/pages/Beneficiaires.tsx","File:ngo-management-platform-design/src/components/Charts.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:ngo-management-platform-design/src/pages/Beneficiaires.tsx","File:ngo-management-platform-design/src/components/Icons.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:ngo-management-platform-design/src/pages/Beneficiaires.tsx","File:ngo-management-platform-design/src/data/mockData.ts","IMPORTS",1,"typescript-scope: import",0,0
+"File:ngo-management-platform-design/src/pages/Benevoles.tsx","File:ngo-management-platform-design/src/components/UI.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:ngo-management-platform-design/src/pages/Benevoles.tsx","File:ngo-management-platform-design/src/components/Icons.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:ngo-management-platform-design/src/pages/Benevoles.tsx","File:ngo-management-platform-design/src/data/mockData.ts","IMPORTS",1,"typescript-scope: import",0,0
+"File:ngo-management-platform-design/src/pages/Dashboard.tsx","File:ngo-management-platform-design/src/components/UI.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:ngo-management-platform-design/src/pages/Dashboard.tsx","File:ngo-management-platform-design/src/components/Charts.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:ngo-management-platform-design/src/pages/Dashboard.tsx","File:ngo-management-platform-design/src/components/Icons.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:ngo-management-platform-design/src/pages/Dashboard.tsx","File:ngo-management-platform-design/src/data/mockData.ts","IMPORTS",1,"typescript-scope: import",0,0
+"File:ngo-management-platform-design/src/pages/Dons.tsx","File:ngo-management-platform-design/src/components/UI.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:ngo-management-platform-design/src/pages/Dons.tsx","File:ngo-management-platform-design/src/components/Charts.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:ngo-management-platform-design/src/pages/Dons.tsx","File:ngo-management-platform-design/src/components/Icons.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:ngo-management-platform-design/src/pages/Dons.tsx","File:ngo-management-platform-design/src/data/mockData.ts","IMPORTS",1,"typescript-scope: import",0,0
+"File:ngo-management-platform-design/src/pages/Evenements.tsx","File:ngo-management-platform-design/src/components/UI.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:ngo-management-platform-design/src/pages/Evenements.tsx","File:ngo-management-platform-design/src/components/Icons.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:ngo-management-platform-design/src/pages/Evenements.tsx","File:ngo-management-platform-design/src/data/mockData.ts","IMPORTS",1,"typescript-scope: import",0,0
+"File:ngo-management-platform-design/src/pages/Finances.tsx","File:ngo-management-platform-design/src/components/UI.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:ngo-management-platform-design/src/pages/Finances.tsx","File:ngo-management-platform-design/src/components/Charts.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:ngo-management-platform-design/src/pages/Finances.tsx","File:ngo-management-platform-design/src/components/Icons.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:ngo-management-platform-design/src/pages/Finances.tsx","File:ngo-management-platform-design/src/data/mockData.ts","IMPORTS",1,"typescript-scope: import",0,0
+"File:ngo-management-platform-design/src/pages/Projets.tsx","File:ngo-management-platform-design/src/components/UI.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:ngo-management-platform-design/src/pages/Projets.tsx","File:ngo-management-platform-design/src/components/Icons.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:ngo-management-platform-design/src/pages/Projets.tsx","File:ngo-management-platform-design/src/data/mockData.ts","IMPORTS",1,"typescript-scope: import",0,0
+"File:ngo-management-platform-design/src/pages/Rapports.tsx","File:ngo-management-platform-design/src/components/UI.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:ngo-management-platform-design/src/pages/Rapports.tsx","File:ngo-management-platform-design/src/components/Charts.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:ngo-management-platform-design/src/pages/Rapports.tsx","File:ngo-management-platform-design/src/components/Icons.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:ngo-management-platform-design/src/pages/Rapports.tsx","File:ngo-management-platform-design/src/data/mockData.ts","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/App.tsx","File:src/context/AuthContext.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/App.tsx","File:src/context/AppContext.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/App.tsx","File:src/components/Layout.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/App.tsx","File:src/components/Login.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/App.tsx","File:src/components/Dashboard.tsx","IMPORTS",1,"typescript-scope: import (deferred)",0,0
+"File:src/App.tsx","File:src/components/Membres.tsx","IMPORTS",1,"typescript-scope: import (deferred)",0,0
+"File:src/App.tsx","File:src/components/Projets.tsx","IMPORTS",1,"typescript-scope: import (deferred)",0,0
+"File:src/App.tsx","File:src/components/Dons.tsx","IMPORTS",1,"typescript-scope: import (deferred)",0,0
+"File:src/App.tsx","File:src/components/Finances.tsx","IMPORTS",1,"typescript-scope: import (deferred)",0,0
+"File:src/App.tsx","File:src/components/Evenements.tsx","IMPORTS",1,"typescript-scope: import (deferred)",0,0
+"File:src/App.tsx","File:src/components/Stocks.tsx","IMPORTS",1,"typescript-scope: import (deferred)",0,0
+"File:src/App.tsx","File:src/components/Fournisseurs.tsx","IMPORTS",1,"typescript-scope: import (deferred)",0,0
+"File:src/App.tsx","File:src/components/Commandes.tsx","IMPORTS",1,"typescript-scope: import (deferred)",0,0
+"File:src/App.tsx","File:src/components/Rapports.tsx","IMPORTS",1,"typescript-scope: import (deferred)",0,0
+"File:src/App.tsx","File:src/components/Parametres.tsx","IMPORTS",1,"typescript-scope: import (deferred)",0,0
+"File:src/App.tsx","File:src/components/Logs.tsx","IMPORTS",1,"typescript-scope: import (deferred)",0,0
+"File:src/components/Commandes.tsx","File:src/types.ts","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/Commandes.tsx","File:src/api/client.ts","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/Commandes.tsx","File:src/context/AppContext.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/Dashboard.tsx","File:src/components/dashboard/UI.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/Dashboard.tsx","File:src/components/dashboard/Charts.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/Dashboard.tsx","File:src/components/dashboard/KPICard.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/Dashboard.tsx","File:src/components/dashboard/ActivityFeed.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/Dashboard.tsx","File:src/components/dashboard/GeographicReach.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/Dashboard.tsx","File:src/components/dashboard/FundAllocation.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/Dashboard.tsx","File:src/context/AppContext.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/Dashboard.tsx","File:src/context/ThemeContext.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/Dashboard.tsx","File:src/utils/colors.ts","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/Dashboard.tsx","File:src/types.ts","IMPORTS",1,"typescript-scope: import (type-only)",0,0
+"File:src/components/Dashboard_old.tsx","File:src/context/AppContext.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/Dons.tsx","File:src/context/AppContext.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/Dons.tsx","File:src/types.ts","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/Evenements.tsx","File:src/context/AppContext.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/Evenements.tsx","File:src/types.ts","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/Finances.tsx","File:src/context/AppContext.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/Finances.tsx","File:src/context/ThemeContext.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/Finances.tsx","File:src/types.ts","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/Fournisseurs.tsx","File:src/types.ts","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/Fournisseurs.tsx","File:src/api/client.ts","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/Fournisseurs.tsx","File:src/utils/validation.ts","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/Layout.tsx","File:src/context/AppContext.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/Layout.tsx","File:src/context/AuthContext.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/Layout.tsx","File:src/context/ThemeContext.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/Layout.tsx","File:src/utils/colors.ts","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/Layout.tsx","File:src/hooks/useNotifications.ts","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/Layout.tsx","File:src/components/NotificationPanel.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/Login.tsx","File:src/utils/validation.ts","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/Login.tsx","File:src/context/ThemeContext.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/Logs.tsx","File:src/api/client.ts","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/Membres.tsx","File:src/context/AppContext.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/Membres.tsx","File:src/types.ts","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/NotificationPanel.tsx","File:src/types.ts","IMPORTS",1,"typescript-scope: import (type-only)",0,0
+"File:src/components/Parametres.tsx","File:src/context/AppContext.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/Parametres.tsx","File:src/api/client.ts","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/Parametres.tsx","File:src/utils/validation.ts","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/Projets.tsx","File:src/context/AppContext.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/Projets.tsx","File:src/types.ts","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/Rapports.tsx","File:src/context/AppContext.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/Stocks.tsx","File:src/types.ts","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/Stocks.tsx","File:src/api/client.ts","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/Stocks.tsx","File:src/utils/validation.ts","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/Stocks.tsx","File:src/context/AppContext.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/Stocks.tsx","File:src/utils/colors.ts","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/dashboard/ActivityFeed.tsx","File:src/components/dashboard/UI.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/dashboard/FundAllocation.tsx","File:src/components/dashboard/UI.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/dashboard/FundAllocation.tsx","File:src/components/dashboard/Charts.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/dashboard/FundAllocation.tsx","File:src/types.ts","IMPORTS",1,"typescript-scope: import (type-only)",0,0
+"File:src/components/dashboard/GeographicReach.tsx","File:src/components/dashboard/UI.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/dashboard/GeographicReach.tsx","File:src/types.ts","IMPORTS",1,"typescript-scope: import (type-only)",0,0
+"File:src/components/dashboard/KPICard.tsx","File:src/components/dashboard/UI.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/components/dashboard/UI.tsx","File:src/utils/cn.ts","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/context/AppContext.tsx","File:src/types.ts","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/context/AppContext.tsx","File:src/api/client.ts","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/context/AppContext.tsx","File:src/db/database.ts","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/context/AppContext.tsx","File:src/db/services.ts","IMPORTS",1,"typescript-scope: import (deferred)",0,0
+"File:src/context/AuthContext.tsx","File:src/types.ts","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/data/initialData.ts","File:src/types.ts","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/db/database.ts","File:src/types.ts","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/db/services.ts","File:src/db/database.ts","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/db/services.ts","File:src/types.ts","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/db/services.ts","File:src/data/initialData.ts","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/hooks/useNotifications.ts","File:src/context/AppContext.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/hooks/useNotifications.ts","File:src/components/Membres.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/hooks/useNotifications.ts","File:src/types.ts","IMPORTS",1,"typescript-scope: import (type-only)",0,0
+"File:src/main.tsx","File:src/App.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/main.tsx","File:src/context/ThemeContext.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/main.tsx","File:src/ui/index.ts","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/ui/index.ts","File:src/ui/Button.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/ui/index.ts","File:src/ui/Card.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/ui/index.ts","File:src/ui/Badge.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/ui/index.ts","File:src/ui/Modal.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/ui/index.ts","File:src/ui/Input.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/ui/index.ts","File:src/ui/Skeleton.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/ui/index.ts","File:src/ui/Toast.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:src/ui/index.ts","File:src/ui/EmptyState.tsx","IMPORTS",1,"typescript-scope: import",0,0
+"File:dist_upload/Commandes-BajZpQe0.js","File:dist_upload/index-B6hk_Y3q.js","IMPORTS",1,"javascript-scope: import",0,0
+"File:dist_upload/Dashboard-G2ez2KDt.js","File:dist_upload/index-B6hk_Y3q.js","IMPORTS",1,"javascript-scope: import",0,0
+"File:dist_upload/Dashboard-G2ez2KDt.js","File:dist_upload/clsx-CyW3IW73.js","IMPORTS",1,"javascript-scope: import",0,0
+"File:dist_upload/Dashboard-G2ez2KDt.js","File:dist_upload/globe-BgQQ80Xr.js","IMPORTS",1,"javascript-scope: import",0,0
+"File:dist_upload/Dashboard-G2ez2KDt.js","File:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js","IMPORTS",1,"javascript-scope: import",0,0
+"File:dist_upload/Dons-BJEF-Enq.js","File:dist_upload/index-B6hk_Y3q.js","IMPORTS",1,"javascript-scope: import",0,0
+"File:dist_upload/Dons-BJEF-Enq.js","File:dist_upload/clock-DoMXn4Jv.js","IMPORTS",1,"javascript-scope: import",0,0
+"File:dist_upload/Evenements-CXpu-VJ7.js","File:dist_upload/index-B6hk_Y3q.js","IMPORTS",1,"javascript-scope: import",0,0
+"File:dist_upload/Evenements-CXpu-VJ7.js","File:dist_upload/clock-DoMXn4Jv.js","IMPORTS",1,"javascript-scope: import",0,0
+"File:dist_upload/Evenements-CXpu-VJ7.js","File:dist_upload/map-pin-2s3yYXZy.js","IMPORTS",1,"javascript-scope: import",0,0
+"File:dist_upload/Finances-CGGP27IQ.js","File:dist_upload/index-B6hk_Y3q.js","IMPORTS",1,"javascript-scope: import",0,0
+"File:dist_upload/Finances-CGGP27IQ.js","File:dist_upload/clsx-CyW3IW73.js","IMPORTS",1,"javascript-scope: import",0,0
+"File:dist_upload/Fournisseurs-Ds-yGbIs.js","File:dist_upload/index-B6hk_Y3q.js","IMPORTS",1,"javascript-scope: import",0,0
+"File:dist_upload/Fournisseurs-Ds-yGbIs.js","File:dist_upload/map-pin-2s3yYXZy.js","IMPORTS",1,"javascript-scope: import",0,0
+"File:dist_upload/Logs-BRbSvMIe.js","File:dist_upload/index-B6hk_Y3q.js","IMPORTS",1,"javascript-scope: import",0,0
+"File:dist_upload/Logs-BRbSvMIe.js","File:dist_upload/refresh-cw-CJHznLSr.js","IMPORTS",1,"javascript-scope: import",0,0
+"File:dist_upload/Parametres-CqGLJVqs.js","File:dist_upload/index-B6hk_Y3q.js","IMPORTS",1,"javascript-scope: import",0,0
+"File:dist_upload/Parametres-CqGLJVqs.js","File:dist_upload/map-pin-2s3yYXZy.js","IMPORTS",1,"javascript-scope: import",0,0
+"File:dist_upload/Parametres-CqGLJVqs.js","File:dist_upload/globe-BgQQ80Xr.js","IMPORTS",1,"javascript-scope: import",0,0
+"File:dist_upload/Parametres-CqGLJVqs.js","File:dist_upload/refresh-cw-CJHznLSr.js","IMPORTS",1,"javascript-scope: import",0,0
+"File:dist_upload/Projets-Dfe3LzKZ.js","File:dist_upload/index-B6hk_Y3q.js","IMPORTS",1,"javascript-scope: import",0,0
+"File:dist_upload/Projets-Dfe3LzKZ.js","File:dist_upload/map-pin-2s3yYXZy.js","IMPORTS",1,"javascript-scope: import",0,0
+"File:dist_upload/Rapports-D4KzLyxD.js","File:dist_upload/index-B6hk_Y3q.js","IMPORTS",1,"javascript-scope: import",0,0
+"File:dist_upload/Rapports-D4KzLyxD.js","File:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js","IMPORTS",1,"javascript-scope: import",0,0
+"File:dist_upload/Stocks-DIXzTomf.js","File:dist_upload/index-B6hk_Y3q.js","IMPORTS",1,"javascript-scope: import",0,0
+"File:dist_upload/Stocks-DIXzTomf.js","File:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js","IMPORTS",1,"javascript-scope: import",0,0
+"File:dist_upload/clock-DoMXn4Jv.js","File:dist_upload/index-B6hk_Y3q.js","IMPORTS",1,"javascript-scope: import",0,0
+"File:dist_upload/clsx-CyW3IW73.js","File:dist_upload/index-B6hk_Y3q.js","IMPORTS",1,"javascript-scope: import",0,0
+"File:dist_upload/globe-BgQQ80Xr.js","File:dist_upload/index-B6hk_Y3q.js","IMPORTS",1,"javascript-scope: import",0,0
+"File:dist_upload/index-B6hk_Y3q.js","File:dist_upload/services-BJa2NazW.js","IMPORTS",1,"javascript-scope: import (deferred)",0,0
+"File:dist_upload/index-B6hk_Y3q.js","File:dist_upload/Dashboard-G2ez2KDt.js","IMPORTS",1,"javascript-scope: import (deferred)",0,0
+"File:dist_upload/index-B6hk_Y3q.js","File:dist_upload/Projets-Dfe3LzKZ.js","IMPORTS",1,"javascript-scope: import (deferred)",0,0
+"File:dist_upload/index-B6hk_Y3q.js","File:dist_upload/Dons-BJEF-Enq.js","IMPORTS",1,"javascript-scope: import (deferred)",0,0
+"File:dist_upload/index-B6hk_Y3q.js","File:dist_upload/Finances-CGGP27IQ.js","IMPORTS",1,"javascript-scope: import (deferred)",0,0
+"File:dist_upload/index-B6hk_Y3q.js","File:dist_upload/Evenements-CXpu-VJ7.js","IMPORTS",1,"javascript-scope: import (deferred)",0,0
+"File:dist_upload/index-B6hk_Y3q.js","File:dist_upload/Stocks-DIXzTomf.js","IMPORTS",1,"javascript-scope: import (deferred)",0,0
+"File:dist_upload/index-B6hk_Y3q.js","File:dist_upload/Fournisseurs-Ds-yGbIs.js","IMPORTS",1,"javascript-scope: import (deferred)",0,0
+"File:dist_upload/index-B6hk_Y3q.js","File:dist_upload/Commandes-BajZpQe0.js","IMPORTS",1,"javascript-scope: import (deferred)",0,0
+"File:dist_upload/index-B6hk_Y3q.js","File:dist_upload/Rapports-D4KzLyxD.js","IMPORTS",1,"javascript-scope: import (deferred)",0,0
+"File:dist_upload/index-B6hk_Y3q.js","File:dist_upload/Parametres-CqGLJVqs.js","IMPORTS",1,"javascript-scope: import (deferred)",0,0
+"File:dist_upload/index-B6hk_Y3q.js","File:dist_upload/Logs-BRbSvMIe.js","IMPORTS",1,"javascript-scope: import (deferred)",0,0
+"File:dist_upload/index.es-DibgWzSl.js","File:dist_upload/index-B6hk_Y3q.js","IMPORTS",1,"javascript-scope: import",0,0
+"File:dist_upload/index.es-DibgWzSl.js","File:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js","IMPORTS",1,"javascript-scope: import",0,0
+"File:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js","File:dist_upload/index-B6hk_Y3q.js","IMPORTS",1,"javascript-scope: import",0,0
+"File:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js","File:dist_upload/html2canvas.esm-Ge7aVWlp.js","IMPORTS",1,"javascript-scope: import (deferred)",0,0
+"File:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js","File:dist_upload/purify.es-OpeaODd9.js","IMPORTS",1,"javascript-scope: import (deferred)",0,0
+"File:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js","File:dist_upload/index.es-DibgWzSl.js","IMPORTS",1,"javascript-scope: import (deferred)",0,0
+"File:dist_upload/map-pin-2s3yYXZy.js","File:dist_upload/index-B6hk_Y3q.js","IMPORTS",1,"javascript-scope: import",0,0
+"File:dist_upload/refresh-cw-CJHznLSr.js","File:dist_upload/index-B6hk_Y3q.js","IMPORTS",1,"javascript-scope: import",0,0
+"File:dist_upload/services-BJa2NazW.js","File:dist_upload/index-B6hk_Y3q.js","IMPORTS",1,"javascript-scope: import",0,0

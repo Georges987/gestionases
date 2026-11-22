@@ -1,0 +1,47 @@
+# .gitignore - Gestion ONG
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Deploy credentials
+deploy/.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Env files
+.env
+.env.local
+.env.*.local
+
+# Données SQLite (bind mount Docker) — jamais commitées
+data/
+*.db-journal
+
+# Fichiers de debug / info exposés
+api/debug.php
+api/test.php
+api/phpinfo.php
+
+# Bases de données locales
+*.db
+*.db-wal
+*.db-shm
+*.sqlite
+
+# Archives de build
+*.zip

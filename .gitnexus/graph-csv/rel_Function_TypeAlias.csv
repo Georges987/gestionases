@@ -1,0 +1,27 @@
+from,to,type,confidence,reason,step,staticGated
+"Function:ngo-management-platform-design/src/components/Icons.tsx:Icon.Dashboard","TypeAlias:ngo-management-platform-design/src/components/Icons.tsx:IconProps","USES",0.51,"scope-resolution: type-reference",0,0
+"Function:ngo-management-platform-design/src/components/Icons.tsx:Icon.Project","TypeAlias:ngo-management-platform-design/src/components/Icons.tsx:IconProps","USES",0.51,"scope-resolution: type-reference",0,0
+"Function:ngo-management-platform-design/src/components/Icons.tsx:Icon.Heart","TypeAlias:ngo-management-platform-design/src/components/Icons.tsx:IconProps","USES",0.51,"scope-resolution: type-reference",0,0
+"Function:ngo-management-platform-design/src/components/Icons.tsx:Icon.Users","TypeAlias:ngo-management-platform-design/src/components/Icons.tsx:IconProps","USES",0.51,"scope-resolution: type-reference",0,0
+"Function:ngo-management-platform-design/src/components/Icons.tsx:Icon.Hand","TypeAlias:ngo-management-platform-design/src/components/Icons.tsx:IconProps","USES",0.51,"scope-resolution: type-reference",0,0
+"Function:ngo-management-platform-design/src/components/Icons.tsx:Icon.Calendar","TypeAlias:ngo-management-platform-design/src/components/Icons.tsx:IconProps","USES",0.51,"scope-resolution: type-reference",0,0
+"Function:ngo-management-platform-design/src/components/Icons.tsx:Icon.Wallet","TypeAlias:ngo-management-platform-design/src/components/Icons.tsx:IconProps","USES",0.51,"scope-resolution: type-reference",0,0
+"Function:ngo-management-platform-design/src/components/Icons.tsx:Icon.Chart","TypeAlias:ngo-management-platform-design/src/components/Icons.tsx:IconProps","USES",0.51,"scope-resolution: type-reference",0,0
+"Function:ngo-management-platform-design/src/components/Icons.tsx:Icon.Settings","TypeAlias:ngo-management-platform-design/src/components/Icons.tsx:IconProps","USES",0.51,"scope-resolution: type-reference",0,0
+"Function:ngo-management-platform-design/src/components/Icons.tsx:Icon.Search","TypeAlias:ngo-management-platform-design/src/components/Icons.tsx:IconProps","USES",0.51,"scope-resolution: type-reference",0,0
+"Function:ngo-management-platform-design/src/components/Icons.tsx:Icon.Bell","TypeAlias:ngo-management-platform-design/src/components/Icons.tsx:IconProps","USES",0.51,"scope-resolution: type-reference",0,0
+"Function:ngo-management-platform-design/src/components/Icons.tsx:Icon.Plus","TypeAlias:ngo-management-platform-design/src/components/Icons.tsx:IconProps","USES",0.51,"scope-resolution: type-reference",0,0
+"Function:ngo-management-platform-design/src/components/Icons.tsx:Icon.Trend","TypeAlias:ngo-management-platform-design/src/components/Icons.tsx:IconProps","USES",0.51,"scope-resolution: type-reference",0,0
+"Function:ngo-management-platform-design/src/components/Icons.tsx:Icon.TrendDown","TypeAlias:ngo-management-platform-design/src/components/Icons.tsx:IconProps","USES",0.51,"scope-resolution: type-reference",0,0
+"Function:ngo-management-platform-design/src/components/Icons.tsx:Icon.Globe","TypeAlias:ngo-management-platform-design/src/components/Icons.tsx:IconProps","USES",0.51,"scope-resolution: type-reference",0,0
+"Function:ngo-management-platform-design/src/components/Icons.tsx:Icon.Dots","TypeAlias:ngo-management-platform-design/src/components/Icons.tsx:IconProps","USES",0.51,"scope-resolution: type-reference",0,0
+"Function:ngo-management-platform-design/src/components/Icons.tsx:Icon.Check","TypeAlias:ngo-management-platform-design/src/components/Icons.tsx:IconProps","USES",0.51,"scope-resolution: type-reference",0,0
+"Function:ngo-management-platform-design/src/components/Icons.tsx:Icon.Menu","TypeAlias:ngo-management-platform-design/src/components/Icons.tsx:IconProps","USES",0.51,"scope-resolution: type-reference",0,0
+"Function:ngo-management-platform-design/src/components/Icons.tsx:Icon.Close","TypeAlias:ngo-management-platform-design/src/components/Icons.tsx:IconProps","USES",0.51,"scope-resolution: type-reference",0,0
+"Function:ngo-management-platform-design/src/components/Icons.tsx:Icon.Pin","TypeAlias:ngo-management-platform-design/src/components/Icons.tsx:IconProps","USES",0.51,"scope-resolution: type-reference",0,0
+"Function:ngo-management-platform-design/src/components/Icons.tsx:Icon.Clock","TypeAlias:ngo-management-platform-design/src/components/Icons.tsx:IconProps","USES",0.51,"scope-resolution: type-reference",0,0
+"Function:ngo-management-platform-design/src/components/Icons.tsx:Icon.Mail","TypeAlias:ngo-management-platform-design/src/components/Icons.tsx:IconProps","USES",0.51,"scope-resolution: type-reference",0,0
+"Function:ngo-management-platform-design/src/components/Icons.tsx:Icon.Leaf","TypeAlias:ngo-management-platform-design/src/components/Icons.tsx:IconProps","USES",0.51,"scope-resolution: type-reference",0,0
+"Function:ngo-management-platform-design/src/components/Sidebar.tsx:Sidebar","TypeAlias:ngo-management-platform-design/src/components/Sidebar.tsx:PageId","USES",0.53,"scope-resolution: type-reference",0,0
+"Function:ngo-management-platform-design/src/components/Sidebar.tsx:Sidebar","TypeAlias:ngo-management-platform-design/src/components/Sidebar.tsx:PageId","USES",0.53,"scope-resolution: type-reference",0,0
+"Function:src/components/Stocks.tsx:Stocks","TypeAlias:src/components/Stocks.tsx:TabType","USES",0.53,"scope-resolution: type-reference",0,0

@@ -1,0 +1,15 @@
+from,to,type,confidence,reason,step,staticGated
+"Class:dist_upload/Finances-CGGP27IQ.js:Zb","proc_54_ms","STEP_IN_PROCESS",1,"trace-detection",6,0
+"Class:dist_upload/index.es-DibgWzSl.js:M","proc_66_renderchildren","STEP_IN_PROCESS",1,"trace-detection",6,0
+"Class:dist_upload/index.es-DibgWzSl.js:ee","proc_94_renderchildren","STEP_IN_PROCESS",1,"trace-detection",5,0
+"Class:dist_upload/index.es-DibgWzSl.js:le","proc_122_xe","STEP_IN_PROCESS",1,"trace-detection",4,0
+"Class:dist_upload/index.es-DibgWzSl.js:M","proc_246_path","STEP_IN_PROCESS",1,"trace-detection",5,0
+"Class:dist_upload/index.es-DibgWzSl.js:M","proc_329_apply","STEP_IN_PROCESS",1,"trace-detection",5,0
+"Class:dist_upload/index.es-DibgWzSl.js:M","proc_390_renderchildren","STEP_IN_PROCESS",1,"trace-detection",5,0
+"Class:dist_upload/index.es-DibgWzSl.js:M","proc_433_createpattern","STEP_IN_PROCESS",1,"trace-detection",5,0
+"Class:dist_upload/index.es-DibgWzSl.js:M","proc_467_renderchildren","STEP_IN_PROCESS",1,"trace-detection",5,0
+"Class:dist_upload/index.es-DibgWzSl.js:M","proc_496_creategradient","STEP_IN_PROCESS",1,"trace-detection",5,0
+"Class:dist_upload/index.es-DibgWzSl.js:M","proc_521_constructor","STEP_IN_PROCESS",1,"trace-detection",4,0
+"Class:dist_upload/index.es-DibgWzSl.js:M","proc_543_resize","STEP_IN_PROCESS",1,"trace-detection",4,0
+"Class:dist_upload/index.es-DibgWzSl.js:M","proc_563_setcontext","STEP_IN_PROCESS",1,"trace-detection",4,0
+"Class:dist_upload/index.es-DibgWzSl.js:M","proc_582_render","STEP_IN_PROCESS",1,"trace-detection",4,0

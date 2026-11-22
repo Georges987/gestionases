@@ -1,0 +1,41 @@
+RewriteEngine On
+RewriteBase /
+
+# 0. Désactiver le listing de répertoire
+Options -Indexes
+
+# 0.1. Headers de sécurité (s'appliquent à toute l'app)
+<IfModule mod_headers.c>
+    Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains; preload"
+    Header always set X-Content-Type-Options "nosniff"
+    Header always set X-Frame-Options "SAMEORIGIN"
+    Header always set Referrer-Policy "strict-origin-when-cross-origin"
+    Header always set Permissions-Policy "geolocation=(), microphone=(), camera=()"
+    Header always set Content-Security-Policy "default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self' data:; connect-src 'self'; frame-ancestors 'self'; base-uri 'self'; form-action 'self'"
+</IfModule>
+
+# CORS pour les assets statiques (nécessaire pour crossorigin dans le HTML)
+<IfModule mod_headers.c>
+    <FilesMatch "\.(js|css|woff2?|ttf|eot|svg|png|jpe?g|gif|webp|ico)$">
+        Header set Access-Control-Allow-Origin "*"
+    </FilesMatch>
+</IfModule>
+
+# 1. API : transmettre Authorization header (OVH)
+RewriteCond %{HTTP:Authorization} ^(.*)
+RewriteRule .* - [e=HTTP_AUTHORIZATION:%1]
+
+# 2. API : pas de réécriture pour /admin/api/*
+RewriteCond %{REQUEST_URI} ^/admin/api/ [NC]
+RewriteRule ^ - [L]
+
+# 3. Admin : servir le React SPA
+RewriteCond %{REQUEST_URI} ^/admin/ [NC]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^ /admin/index.html [L]
+
+# 4. Laravel : tout le reste → index.php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^ index.php [L]

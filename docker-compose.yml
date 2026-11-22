@@ -1,0 +1,54 @@
+# =============================================================================
+# Gestion ONG — Docker Compose
+# Démarre l'app sur le port 3030 : http://localhost:3030/admin/
+# Toute la configuration (base de données, secrets) se fait depuis .env
+#
+# Utilisation :
+#   1. cp .env.docker.example .env   (puis éditer .env)
+#   2. docker compose up -d --build
+#   3. http://localhost:3030/admin/
+# =============================================================================
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        # URL de l'API relative au domaine (servie par Apache sous /admin/api/)
+        VITE_API_BASE: ${VITE_API_BASE:-/admin/api}
+    image: gestion-ong:latest
+    container_name: gestion-ong
+    ports:
+      # Port hôte 3030 -> port 80 du conteneur
+      - "3030:80"
+    env_file:
+      - .env
+    environment:
+      # Les valeurs ci-dessous proviennent de .env (env_file) ; on les redit ici pour clarté
+      DB_DRIVER: ${DB_DRIVER:-postgres}
+      DB_HOST: ${DB_HOST:?DB_HOST manquant dans .env (base Postgres externe)}
+      DB_PORT: ${DB_PORT:-5432}
+      DB_NAME: ${DB_NAME:?DB_NAME manquant dans .env}
+      DB_USER: ${DB_USER:?DB_USER manquant dans .env}
+      DB_PASSWORD: ${DB_PASSWORD:?DB_PASSWORD manquant dans .env}
+      DB_SSLMODE: ${DB_SSLMODE:-}
+      JWT_SECRET: ${JWT_SECRET:?JWT_SECRET manquant dans .env}
+      ALLOWED_ORIGIN: ${ALLOWED_ORIGIN:-http://localhost:3030}
+      ADMIN_EMAIL: ${ADMIN_EMAIL:-admin@gestion-ong.org}
+      ADMIN_NAME: ${ADMIN_NAME:-Administrateur}
+      ADMIN_PASSWORD: ${ADMIN_PASSWORD:?ADMIN_PASSWORD manquant dans .env}
+      JWT_EXPIRY: ${JWT_EXPIRY:-86400}
+    volumes:
+      # Volume pour l'export/backup temporaires et pour le mode SQLite optionnel
+      # En Postgres, les données vivent chez l'hébergeur (pas de volume requis, mais ./data reste pratique pour les exports)
+      - ./data:/var/www/data
+    restart: unless-stopped
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+# NB : pas de service DB dans ce compose — Postgres est externe (fourni par l'hébergeur)
+# Pour un Postgres local, ajoutez un service 'db' (image: postgres:16) ici et pointez DB_HOST dessus

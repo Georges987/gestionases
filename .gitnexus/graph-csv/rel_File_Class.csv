@@ -1,0 +1,7 @@
+from,to,type,confidence,reason,step,staticGated
+"File:src/db/database.ts","Class:src/db/database.ts:ONGDatabase","CALLS",0.85,"local-call",0,0
+"File:dist_upload/Finances-CGGP27IQ.js","Class:dist_upload/index.es-DibgWzSl.js:wc","CALLS",0.5,"global-name-fallback",0,0
+"File:dist_upload/Finances-CGGP27IQ.js","Class:dist_upload/Finances-CGGP27IQ.js:zT","CALLS",0.85,"local-call",0,0
+"File:dist_upload/index-B6hk_Y3q.js","Class:dist_upload/index-B6hk_Y3q.js:Uh","CALLS",0.85,"local-call",0,0
+"File:dist_upload/Finances-CGGP27IQ.js","Class:dist_upload/Finances-CGGP27IQ.js:Pe","ACCESSES",0.55,"scope-resolution: read",0,0
+"File:dist_upload/index.es-DibgWzSl.js","Class:dist_upload/index.es-DibgWzSl.js:$r","ACCESSES",0.55,"scope-resolution: read",0,0

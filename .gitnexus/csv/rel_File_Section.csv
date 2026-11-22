@@ -1,0 +1,19 @@
+from,to,type,confidence,reason,step,staticGated
+"File:DEPLOY.md","Section:DEPLOY.md:L1:Guide de déploiement - Gestion ONG (SQLite)","CONTAINS",1,"markdown-heading",0,0
+"File:README_ICON_NODE.md","Section:README_ICON_NODE.md:L1:Icone Windows (Node-based)","CONTAINS",1,"markdown-heading",0,0
+"File:docs/superpowers/plans/2026-06-06-dashboard-migration.md","Section:docs/superpowers/plans/2026-06-06-dashboard-migration.md:L1:Dashboard Migration to ngo-management-platform-design Implementation Plan","CONTAINS",1,"markdown-heading",0,0
+"File:docs/superpowers/specs/2026-06-06-migration-dashboard-design.md","Section:docs/superpowers/specs/2026-06-06-migration-dashboard-design.md:L1:Migration du Dashboard vers le design ngo-management-platform-design","CONTAINS",1,"markdown-heading",0,0
+"File:security/README.md","Section:security/README.md:L1:Configuration de Securite - Gestion ONG","CONTAINS",1,"markdown-heading",0,0
+"File:security/README.md","Section:security/README.md:L66:Headers de securite","CONTAINS",1,"markdown-heading",0,0
+"File:security/README.md","Section:security/README.md:L69:CORS","CONTAINS",1,"markdown-heading",0,0
+"File:security/README.md","Section:security/README.md:L72:Directory listing","CONTAINS",1,"markdown-heading",0,0
+"File:security/fixes-applied.md","Section:security/fixes-applied.md:L1:Correctifs appliques - 2026-06-05","CONTAINS",1,"markdown-heading",0,0
+"File:security/fixes-applied.md","Section:security/fixes-applied.md:L64:Test HSTS","CONTAINS",1,"markdown-heading",0,0
+"File:security/fixes-applied.md","Section:security/fixes-applied.md:L66:Doit afficher: Strict-Transport-Security: max-age=31536000; ...","CONTAINS",1,"markdown-heading",0,0
+"File:security/fixes-applied.md","Section:security/fixes-applied.md:L68:Test CSP","CONTAINS",1,"markdown-heading",0,0
+"File:security/fixes-applied.md","Section:security/fixes-applied.md:L70:Doit afficher: Content-Security-Policy: default-src 'self'; ...","CONTAINS",1,"markdown-heading",0,0
+"File:security/fixes-applied.md","Section:security/fixes-applied.md:L72:Test directory listing","CONTAINS",1,"markdown-heading",0,0
+"File:security/fixes-applied.md","Section:security/fixes-applied.md:L74:Doit afficher: 403 Forbidden","CONTAINS",1,"markdown-heading",0,0
+"File:security/fixes-applied.md","Section:security/fixes-applied.md:L76:Test CORS","CONTAINS",1,"markdown-heading",0,0
+"File:security/fixes-applied.md","Section:security/fixes-applied.md:L78:Doit afficher: Access-Control-Allow-Origin: https://ongases.org","CONTAINS",1,"markdown-heading",0,0
+"File:security/security-report.md","Section:security/security-report.md:L1:Rapport d'audit de securite","CONTAINS",1,"markdown-heading",0,0

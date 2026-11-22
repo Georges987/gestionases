@@ -1,0 +1,4 @@
+from,to,type,confidence,reason,step,staticGated
+"Class:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:s2","Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:s2.addFrameDataToCanvas.a@2:38384","HAS_METHOD",1,"",0,0
+"Class:dist_upload/index.es-DibgWzSl.js:$r","Function:dist_upload/index.es-DibgWzSl.js:$r.start.m@4:21946","HAS_METHOD",1,"",0,0
+"Class:dist_upload/Finances-CGGP27IQ.js:KS","Function:dist_upload/Finances-CGGP27IQ.js:KS.setTimeout.a@6:36546","HAS_METHOD",1,"",0,0

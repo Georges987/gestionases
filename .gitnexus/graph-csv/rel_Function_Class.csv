@@ -1,0 +1,19 @@
+from,to,type,confidence,reason,step,staticGated
+"Function:dist_upload/Dashboard-G2ez2KDt.js:ds.C@0:34780","Class:dist_upload/index.es-DibgWzSl.js:Je","CALLS",0.5,"global-name-fallback",0,0
+"Function:dist_upload/Finances-CGGP27IQ.js:Vl","Class:dist_upload/Finances-CGGP27IQ.js:Zb","CALLS",0.85,"local-call",0,0
+"Function:dist_upload/Finances-CGGP27IQ.js:Qb","Class:dist_upload/Finances-CGGP27IQ.js:Dp","CALLS",0.85,"local-call",0,0
+"Function:dist_upload/Finances-CGGP27IQ.js:Jb","Class:dist_upload/Finances-CGGP27IQ.js:Dp","CALLS",0.85,"local-call",0,0
+"Function:dist_upload/Finances-CGGP27IQ.js:HS","Class:dist_upload/Finances-CGGP27IQ.js:KS","CALLS",0.85,"local-call",0,0
+"Function:dist_upload/Finances-CGGP27IQ.js:Ic","Class:dist_upload/Finances-CGGP27IQ.js:wv","CALLS",0.85,"local-call",0,0
+"Function:dist_upload/Finances-CGGP27IQ.js:Wn","Class:dist_upload/index.es-DibgWzSl.js:Lc","CALLS",0.5,"global-name-fallback",0,0
+"Function:dist_upload/Rapports-D4KzLyxD.js:Ot.l@0:25258","Class:dist_upload/index.es-DibgWzSl.js:G","CALLS",0.5,"global-name-fallback",0,0
+"Function:dist_upload/index-B6hk_Y3q.js:qy.fn@9:42438.fn@9:42480.get@11:3226.c@11:3251","Class:dist_upload/index.es-DibgWzSl.js:Bl","CALLS",0.5,"global-name-fallback",0,0
+"Function:dist_upload/index-B6hk_Y3q.js:qy.fn@9:42438.fn@9:42480._then@11:5192","Class:dist_upload/index.es-DibgWzSl.js:Bl","CALLS",0.5,"global-name-fallback",0,0
+"Function:dist_upload/index-B6hk_Y3q.js:qy","Class:dist_upload/index.es-DibgWzSl.js:He","CALLS",0.5,"global-name-fallback",0,0
+"Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:Ra","Class:dist_upload/index.es-DibgWzSl.js:Vc","CALLS",0.85,"import-resolved",0,0
+"Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:u2","Class:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:s2","CALLS",0.85,"local-call",0,0
+"Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:x2","Class:dist_upload/index.es-DibgWzSl.js:Zf","CALLS",0.85,"import-resolved",0,0
+"Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.q@41:72422","Class:dist_upload/index.es-DibgWzSl.js:le","CALLS",0.85,"import-resolved",0,0
+"Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.Et@41:72928","Class:dist_upload/index.es-DibgWzSl.js:le","CALLS",0.85,"import-resolved",0,0
+"Function:dist_upload/jspdf.plugin.autotable-u0P6PgMy.js:of.u@41:43099.to@41:79954","Class:dist_upload/index.es-DibgWzSl.js:K","CALLS",0.85,"import-resolved",0,0
+"Function:dist_upload/Finances-CGGP27IQ.js:QN","Class:dist_upload/Finances-CGGP27IQ.js:XN","ACCESSES",0.53,"scope-resolution: read",0,0
